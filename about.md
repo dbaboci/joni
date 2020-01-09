@@ -8,4 +8,6 @@ menus:
     weight: 2
 layout: page
 ---
+<span class="fa fa-briefcase about-icon">::before</span>
+
 Work in progress
