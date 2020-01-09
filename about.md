@@ -8,6 +8,6 @@ menus:
     weight: 2
 layout: page
 ---
-<span class="fa-briefcase">::before</span>
+<span class="fa-briefcase"></span>
 
 Work in progress
