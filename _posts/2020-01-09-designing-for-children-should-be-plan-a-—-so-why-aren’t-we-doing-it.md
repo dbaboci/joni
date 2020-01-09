@@ -3,6 +3,12 @@ title: Designing for children should be plan A — so why aren’t we doing it?
 subtitle: 'Opinion: Architects and urban designers need to listen to their children.'
 date: 2019-04-29T22:00:00.000Z
 thumb_img_path: /images/image1.jpg
+excerpt: >-
+  It is such a simple and straightforward idea: design your public space with
+  safety and comfort for infants, toddlers, and caregivers. Do this, and you
+  will have designed human-centric urban fabric that is safe and fun for all
+  ages. Yet, despite being such an undemanding proposition, it is only recently
+  becoming — slowly but steadily — part of the design discourse.
 layout: post
 ---
 *This piece was originally published on [Apolitical](https://apolitical.co/solution_article/architects-and-urban-designers-need-to-listen-to-their-children).*
