@@ -1,21 +1,22 @@
 ---
 title: Home
 sections:
-  - type: intro
-    title: Intro
-    section_id: intro
+  - actions:
+      - label: About me
+        url: /about
     component: intro.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Learn More
-        url: /about
+      Hello world, I am Joni Baboci, a dad, architect, planner, knowledge seeker
+      and all-around urban enthusiast. This is my modest home on the web where I
+      publish some of my thoughts in tandem with interesting bits and pieces of
+      knowledge.
+    section_id: hello
+    title: Hello
+    type: intro
 menus:
   main:
     title: Home
     weight: 1
 layout: home
 ---
+
