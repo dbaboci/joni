@@ -5,7 +5,7 @@ img_path: ''
 menus:
   main:
     title: About me
-    weight: ''
+    weight: 2
 layout: page
 ---
 Work in progress
