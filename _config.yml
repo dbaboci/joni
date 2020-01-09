@@ -6,7 +6,7 @@ palette: black
 header:
   has_nav: true
   logo_img: ''
-  title: JONI BABOCI
+  title: joni baboci
 footer:
   content: 'Made with Stackbit, Netlify & Github'
   has_social: true
