@@ -2,6 +2,13 @@
 title: The Pyramid of Tirana
 date: 2016-04-13T22:00:00.000Z
 thumb_img_path: /images/piramida1.png
+excerpt: >-
+  The Pyramid of Tirana is a landmark building in the main boulevard of the
+  capital of Albania, built in 1988 by a number of renowned Albanian architects
+  led by Klement Kolaneci. The structure was constructed with the preset aim of
+  serving as a museum for the legacy of communist dictator Enver Hoxha. It
+  fulfilled this purpose for three years up to 1991; since then it has gone
+  through an array of functions becoming - always ephemerally.
 layout: post
 ---
 The Pyramid of Tirana is a landmark building in the main boulevard of the capital of Albania, built in 1988 by a number of renowned Albanian architects led by Klement Kolaneci. The structure was constructed with the preset aim of serving as a museum for the legacy of communist dictator Enver Hoxha. It fulfilled this purpose for three years up to 1991; since then it has gone through an array of functions becoming - always ephemerally - a convention center, a national jazz festival venue, a lecture hall, a theatre, an exhibition space, the potential site for the parliament of Albania, a cultural center, NATO’s HQ for operation Allied Harbour and a concert scene – all of this while always thinly escaping demolition. Today the building stands as the most famous Albanian architectural carcass – yet it conceals the potential to become - through revitalization - one of the most vibrant and interesting structures in Eastern Europe.
