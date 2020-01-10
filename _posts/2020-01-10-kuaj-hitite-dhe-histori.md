@@ -2,7 +2,7 @@
 title: 'Kuaj, Hitite, dhe Histori'
 subtitle: ''
 date: 2015-08-21T22:00:00.000Z
-thumb_img_path: /images/guns-germs-and-steel-the-fates-of-human-societies-1.jpg
+thumb_img_path: /images/1_1KQYYLm4OGiPnQjA3Of5cQ.jpeg
 excerpt: >-
   Më shumë se 4000 vjet përpara përhapjes së Europianëve në të gjithë
   kontinentet e tjera, kishte një shtrirje të mëhershme brënda për brënda
