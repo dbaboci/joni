@@ -55,11 +55,7 @@ Habitshem, del se gjuhëtarët kanë qënë te aftë ti japin përgjigje disa pr
 
 HARTA E GJUHËVE TË EUROPËS DHE AZISË PERËNDIMORE
 
-![](https://miro.medium.com/max/38/1*1KQYYLm4OGiPnQjA3Of5cQ.jpeg?q=20)
-
-![](https://miro.medium.com/max/875/1*1KQYYLm4OGiPnQjA3Of5cQ.jpeg)
-
-*Kjo hartë tregon shpërndarjen gjuhësore, rreth 1492-shit, pak përpara zbulimit Europian të Botës së Re. Duhet të ketë pasur të tjera degëzime të gjuhëve Indo-Europiane që janë zhdukur përpara kësaj date. Sidoqoftë, tekste të konsiderueshme në formë të shkruar janë zbuluar vetëm për gjuhët e degëzimit Anatolik (duke përfshire Hititishten) dhe të atij Tokarik, atdheu i të cilëve u okupua nga folësit e gjuhëve Turkice dhe Mongole përpara vitit 1492***Indo-Europiane**A Shqipe Ar Armene B Balltike C Celte Ge Gjermanike Gr Greke I Italike II Indo-Iraniane S Sllave An Anatole Toe Tokarishte Gjuhë**Jo-Indo-Europiane**1 WA Baske 2 i I Fino-Ugrike 3 II i II Turkice dhe Mongolike 4 k\N Semite 5 Exx^l Kaukaze 6 ETO Dravidiane*.*
+![](https://miro.medium.com/max/875/1*1KQYYLm4OGiPnQjA3Of5cQ.jpeg "Kjo hartë tregon shpërndarjen gjuhësore, rreth 1492-shit, pak B Balltike C Celte Ge Gjermanike Gr Greke I Italike II Indo-Iraniane S Sllave An Anatole Toe Tokarishte Gjuhë Jo-Indo-Europiane 1 WA Baske 2 i I Fino-Ugrike 3 II i II Turkice dhe Mongolike 4 k\N Semite 5 Exx^l Kaukaze 6 ETO Dravidiane.")
 
 Çfare provon se gjithë këto gjuhë janë të lidhura me njëra-tjetrën dhe të ndryshme nga gjuhë të tjera? Një e dhënë e qartë është fjalori i përbashkët, siç ilustrohet nga tabela e fjalorit më poshtë si dhe mijëra shëmbuj të tjerë. Një tjetër e dhënë është ngjashmëria e shkronjave të fundit të fjalëve (i ashtuquajturi: fund infleksional) që përdoren për të zgjedhuar foljet dhe lakuar emrat. Këto mbarime të ngjashme ilustrohen nga një pjesë e zgjedhimit të foljes ‘të jesh’ e treguar më poshtë. Bëhet më i thjeshtë identifikimi i këtyre ngjashmërive kur merret parasysh se rrënjët dhe mbarimet e fjalëve nuk ndahen në mënyrë identike në gjuhë të ndryshme. Në fakt, një tingull i veçantë në njërën gjuhë shpesh zëvendësohet nga një tjetër tingull në gjuhën tjetër. Shëmbuj të njohur janë ekuivalencat e shpeshta midis ‘th’ në Anglisht dhe ‘d’ në Gjermanisht (fjala angleze ‘thing’ është e njëjtë me fjalën Gjermane ‘ding’, ‘thank’ është e njëjtë me ‘danke’), ose midis ‘s’ në Anglisht dhe ‘es’ në Spanjisht (fjala Angleze ‘school’ është e njëjtë me fjalën ‘escuela’, ‘stupid’ me fjalën ‘estupido’). Këto janë disa ngjashmëri të detajuara midis gjuhëve Indo-Europiane, ama tipare tingullore të përgjithshme dhe të formësimit të fjalëve i ndajnë gjuhët Indo-Europiane nga gjuhë të familjeve të tjera. Për shëmbull, theksi im i tmerrshëm francez më turpëron porsa hap gojën për të pyetur, ‘Ou est le metro’. Por vështrësite e mia me Frengjishten janë të pakrahasueshme me paaftësinë time të plote për të prodhuar tingujt kërcitës të disa gjuhëve të Afrikës jugore, ose për të intonuar tetë shkallët e zanoreve në gjuhët e Rrafsheve të Liqeneve pranë ultësirave të Guinesë së Re. Natyrisht, miqte e mi nga Rrafshet e Liqeneve më mësonin me kërshëri emra zogjsh që ndryshoni vetëm në intonim nga fjalët për jashtëqitjen, dhe pastaj shihnin teksa pyesja fshatarin e radhës që takoja për më shumë informacion mbi zogun e lartpërmendur.
 
@@ -116,15 +112,11 @@ Për shëmbull, nësë fjala që do të thotë ‘dele’ është tërësisht e 
 
 NJË DELE ËSHTË NJË DELE ËSHTË NJE DELE
 
-![](https://miro.medium.com/max/38/1*VdU1Ny0JU9z4d2X22V1gnw.jpeg?q=20)
-
 ![](https://miro.medium.com/max/651/1*VdU1Ny0JU9z4d2X22V1gnw.jpeg)
 
 *Në shumë gjuhë moderne Indo-Europiane, si dhe në disa gjuhë të lashta të cilat i njohim nga shkrime të konservuara, fjalët që kanë kuptimin ‘dele’ janë mjaft të ngjashme. Këto fjalë duhet të kenë derivuar nga një formë trashëgimore që është konkluduar se ka qënë owis dhe që është përdorur në gjuhën para-Indo-Europiane (PIE), gjuha e pashkruar mëmë.*
 
 *Siç tregohet nga figura më lart, fjala ‘dele’ në shumë gjuhë Indo-Europiane nga India e deri në Irlandë është mjaft e ngjshme: avis, hawis, ovis, ois, oi, etj. Forma moderne në Anglisht ‘sheep’ është qartazi nga një tjetër rrënjë, ama anglishtja ruan edhe formën origjinale të rrënjës në fjalën ‘ewe’. Duke marrë parasysh ndryshimet tingullore që kanë pësuar gjuhë të ndryshme Indo-Europiane mendohet se forma origjinale ka qënë ‘owis’.*
-
-![](https://miro.medium.com/max/38/1*4Uj5bsEL1ec96ssDwyypYg.jpeg?q=20)
 
 ![](https://miro.medium.com/max/654/1*4Uj5bsEL1ec96ssDwyypYg.jpeg)
 
@@ -174,7 +166,7 @@ Tejpërtej botës, kudo dhe kurdo shfaqen kuajt e zbutur shoqëritë njerëzore 
 
 SI MUND TE JENË SHPËRNDARË GJUHËT INDO-EUROPIANE
 
-![](https://miro.medium.com/max/38/1*1p5dAt54dOfRAfZ7M5vINQ.jpeg?q=20)![](https://miro.medium.com/max/670/1*1p5dAt54dOfRAfZ7M5vINQ.jpeg)
+![](https://miro.medium.com/max/670/1*1p5dAt54dOfRAfZ7M5vINQ.jpeg "Dalim në përfundimin se atdheu i para-Indo-Europianëve (PIE), vendi ku flitej gjuha mëmë ndodhej në stepat Ruse në veri të Detit të Zi dhe në lindje të Lumit Dnieper.")
 
 Evidenca arkeologjike bën të qartë se zbutja e kuajve kishte transformuar në mënyrë të ngjashmë shoqërintë njerëzore në stepat Ruse shumë kohë më përpara, rreth viteve 4000 P.E.S. Hapesira ku banonin këto qytetërime të stepave do të që e vështirë të shfrytëzohej nga njerëzit deri kur ata të zbusnin kuajt dhe te zgjidhnin problemet e transportit dhe të distancës. Okupimi njerëzor i stepës Ruse përshpejtoi zbutjen e kafshëve dhe më pas gjeneroi shpikjen e mjeteve me rrota të tërhequr nga qetë rreth vitit 3300 P.E.S. Ekonomia e stepave u bazua pastaj në kombinimin e deleve dhe lopëve për prodhimin e mishit, qumështit dhe leshit, kuajve dhe mjeteve me rrota për transport, si dhe një mbështetje të lehtë nga bujqësia.
 
