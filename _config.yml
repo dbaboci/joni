@@ -5,8 +5,8 @@ layout_style: grid
 palette: black
 header:
   has_nav: true
-  logo_img: ''
-  title: JONI
+  logo_img: /images/logo.png
+  title: ''
 footer:
   content: 'Made with Stackbit, Netlify & Github'
   has_social: true
