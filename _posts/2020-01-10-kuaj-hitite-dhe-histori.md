@@ -1,7 +1,7 @@
 ---
 title: 'Kuaj, Hitite, dhe Histori'
 subtitle: ''
-date: 2016-08-22T10:11:19.931Z
+date: 2015-08-21T22:00:00.000Z
 thumb_img_path: /images/guns-germs-and-steel-the-fates-of-human-societies-1.jpg
 excerpt: >-
   Më shumë se 4000 vjet përpara përhapjes së Europianëve në të gjithë
