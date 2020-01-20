@@ -12,14 +12,10 @@ layout: page
 
 [Pour la premiere fois depuis 40 ans, l'infrastructure precede le developpement et non l'inverse](https://twitter.com/dbaboci/status/1118592392205086720) by Zehra Sikias | Le Moniteur Export, 15 Apr 2019
 
-Citylab
+[Rebuilding a City from the Eye of a Child](https://www.citylab.com/equity/2018/12/kid-friendly-policy-tirana-urban-planning/578164/) by Feargus O'Sullivan | Citylab, 17 Dec 2018
 
-UrbanNext - <https://urbannext.net/bottom-up-processes-for-the-public-space/> 
+[L'iconique pyramide de Tirana ressuscitée par le numérique](https://www.linformaticien.com/actualites/direct-afp/id/51918/l-iconique-pyramide-de-tirana-ressuscitee-par-le-numerique.aspx) by Sally Mairs & Briseida Mema | L'informaticien, 01 May 2019
 
-L'informaticien (FR) - <https://www.linformaticien.com/actualites/direct-afp/id/51918/l-iconique-pyramide-de-tirana-ressuscitee-par-le-numerique.aspx>
+[Tirana's 'pyramid' puts checkered past behind it for new tech future](https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html) by Sally Mairs & Briseida Mema | Yahoo via AFP, 01 May 2019
 
-Yahoo via AFP - [https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACYLotYrCcLEj30Xfk03rYonPyDuD9jvrR-Yjisdfe518YhejYR\_hP2dICo3VNmnLLyxf-6CcRXdQWDc5umgawtwWdZ85rZathq5nag6yUKjgsKmU4cOlt5CO5yAY6GMwwh-slvnvHSu0CNGRNgW7OCH3tsUQ2VHUeB\_-PcMnOea](https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACYLotYrCcLEj30Xfk03rYonPyDuD9jvrR-Yjisdfe518YhejYR_hP2dICo3VNmnLLyxf-6CcRXdQWDc5umgawtwWdZ85rZathq5nag6yUKjgsKmU4cOlt5CO5yAY6GMwwh-slvnvHSu0CNGRNgW7OCH3tsUQ2VHUeB_-PcMnOea)
-
-Abitare
-
-ICON Magazine, Nr. 150
+[Atelier Albania – or how to redesign a country](https://www.iconeye.com/opinion/comment/item/12312-icon-150-new-mission-new-attitude) by David Michon | ICON Magazine, 18 Nov 2015
