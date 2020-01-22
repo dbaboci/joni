@@ -20,4 +20,4 @@ layout: page
 
 [Tirana Green City](http://www.abitare.it/en/habitat-en/urban-design-en/2016/12/18/the-project-by-stefano-boeri-for-tirana/) by Michele Calzavara - Abitare, 18 Dec 2016
 
-[Atelier Albania – or how to redesign a country](https://www.iconeye.com/opinion/comment/item/12312-icon-150-new-mission-new-attitude) by David Michon | ICON Magazine, 18 Nov 2015
+[Atelier Albania – or how to redesign a country](https://www.iconeye.com/opinion/comment/item/12312-icon-150-new-mission-new-attitude) by David Michon - ICON Magazine, 18 Nov 2015
