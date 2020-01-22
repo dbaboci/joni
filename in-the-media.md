@@ -2,6 +2,7 @@
 title: In the media
 layout: page
 ---
+
 _A list of articles and interviews about my work_
 
 **[Bizarre Communist Folly to Be Reborn as Albanian Education Center](https://www.bloomberg.com/news/articles/2020-01-17/bizarre-communist-pyramid-reborn-as-albanian-education-center)**<br/>Richard Vines - Bloomberg, 17 Jan 2020
