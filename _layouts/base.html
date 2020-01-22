@@ -1,12 +1,12 @@
 <!doctype html>
 <html>
-    <head>    
-        
+    <head>
+
         <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="google" content="notranslate" />
-        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i%7CPT+Serif:400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans|PT+Sans&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
         <link rel="shortcut icon" type="image/png" href="favicon.png">
         {% if page.layout == 'post' %} 
@@ -15,10 +15,10 @@
         <link rel="canonical" href="{{ page.canonical_url }}"/>
         {% endif %}
         {% endif %}
-        
+
     </head>
     <body>
-        
+
         {{ content }}
         <!-- Scripts -->
         <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
@@ -35,5 +35,5 @@
 	})();
         </script>
 
-    </body> 
+    </body>
 </html>
