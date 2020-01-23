@@ -3,6 +3,7 @@ title: Media
 menus:
   main:
     title: Media
+    weight: 0
 layout: page
 ---
 *A list of articles and interviews about my work*
