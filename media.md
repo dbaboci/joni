@@ -1,9 +1,11 @@
 ---
 title: Media
+menus:
+  main:
+    title: Media
 layout: page
 ---
-
-_A list of articles and interviews about my work_
+*A list of articles and interviews about my work*
 
 **[Bizarre Communist Folly to Be Reborn as Albanian Education Center](https://www.bloomberg.com/news/articles/2020-01-17/bizarre-communist-pyramid-reborn-as-albanian-education-center)**<br/>Richard Vines - Bloomberg, 17 Jan 2020
 
@@ -11,7 +13,7 @@ _A list of articles and interviews about my work_
 
 **[L'iconique pyramide de Tirana ressuscitée par le numérique](https://www.linformaticien.com/actualites/direct-afp/id/51918/l-iconique-pyramide-de-tirana-ressuscitee-par-le-numerique.aspx)**<br/>Sally Mairs & Briseida Mema - L'informaticien, 01 May 2019
 
-**[Tirana's 'pyramid' puts checkered past behind it for new tech future](https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html)**<br/>Sally Mairs & Briseida Mema - Yahoo via AFP, 01 May 2019
+**[Tirana's 'pyramid' puts checkered past behind it for new tech future ](https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html)**<br/>Sally Mairs & Briseida Mema - Yahoo via AFP, 01 May 2019
 
 **[Pour la premiere fois, l'infrastructure precede le developpement et non l'inverse](https://twitter.com/dbaboci/status/1118592392205086720)**<br/>Zehra Sikias - Le Moniteur Export, 15 Apr 2019
 
