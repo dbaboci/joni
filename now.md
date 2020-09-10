@@ -10,7 +10,7 @@ This is an always updated page covering my current interests as per the [/now pa
 
 **Professional**
 
-*Ranked from the most immediate, concrete and short-term to the most abstract longer-term:* 
+*Ranked from most concrete and short-term to most abstract longer-term:* 
 
 * I am consulting for the Triennale of Milano.
 * I am writing a book.
