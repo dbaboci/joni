@@ -1,14 +1,14 @@
 title: joni.baboci.net
 baseurl: /
-permalink: '/:title/'
-layout_style: grid
+permalink: /:title/
+layout_style: list
 palette: black
 header:
   has_nav: true
   logo_img: /images/logo.png
-  title: ''
+  title: ""
 footer:
-  content: 'Made with Stackbit, Netlify & Github'
+  content: Made with Stackbit, Netlify & Github
   has_social: true
   links: []
 sass:
