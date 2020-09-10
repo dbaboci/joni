@@ -12,9 +12,9 @@ This is an always updated page covering my current interests as per the [/now pa
 
 *Ranked from most concrete and short-term to most abstract longer-term:* 
 
-* I am consulting for the Triennale of Milano.
+* I am consulting for the [Triennale of Milano](https://www.triennale.org/en/).
 * I am writing a book.
-* I am finalizing my startup on city sensing, planning and artificial intelligence.
+* I am finalizing my startup on city sensing, urban planning and artificial intelligence.
 
 **Personal**
 
@@ -23,4 +23,4 @@ This is an always updated page covering my current interests as per the [/now pa
 
 **Current Location**
 
-* Tirana, Albania
+* Tirana
