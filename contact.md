@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: /images/screenshot-from-2020-09-10-23-34-21.png
+img_path: ""
 menus:
   main:
     title: Contact
