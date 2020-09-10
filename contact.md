@@ -7,5 +7,4 @@ menus:
     weight: 6
 layout: contact
 ---
-
-Fill the form below to get in touch with me.
+Write at [dbaboci@gmail.com](dbaboci@gmail.com), [DM me on Twitter](twitter.com/dbaboci) or fill the form below to get in touch with me.
