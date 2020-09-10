@@ -8,6 +8,8 @@ layout: page
 ---
 *A list of articles and interviews about my work*
 
+**[Tirana - Sustainable Cities Podcast](https://open.spotify.com/episode/3ZdtvV5dcJWaQLwhWCmDeZ?si=V__VTChPScuSU8G9xOo-Ng)**<br/>Jarrett Fisher - SDGs and Cities, 10 Sep 2020
+
 **[Bizarre Communist Folly to Be Reborn as Albanian Education Center](https://www.bloomberg.com/news/articles/2020-01-17/bizarre-communist-pyramid-reborn-as-albanian-education-center)**<br/>Richard Vines - Bloomberg, 17 Jan 2020
 
 **[Reconstructing a City in the Interests of its Children: Tirana, Albania, 2015 – 2019](https://successfulsocieties.princeton.edu/publications/reconstructing-city-interests-its-children-tirana-albania-2015-%E2%80%93-2019)**<br/>Gabriel Curis - Princeton: Innovations for Successful Societies, July 2019
