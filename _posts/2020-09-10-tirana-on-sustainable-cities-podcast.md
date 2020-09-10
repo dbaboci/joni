@@ -1,7 +1,7 @@
 ---
 title: Tirana on Sustainable Cities Podcast
 date: 2020-09-10T20:42:55.264Z
-thumb_img_path: /images/119021601_344697350057156_4448375080633304054_n-1-.png
+thumb_img_path: /images/screenshot-from-2020-09-10-23-13-06.png
 excerpt: "Had a fantastic conversation with Jarret Fisher on her awesome podcast
   regarding cities and the sustainable development goals: tune in to hear about
   Tirana, urban planning and complex systems -
