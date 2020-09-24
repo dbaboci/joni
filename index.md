@@ -10,7 +10,7 @@ sections:
       where I publish some of my thoughts in tandem with interesting bits and
       pieces of knowledge. Like what you're seeing? [Follow me on
       Twitter](http://www.twitter.com/dbaboci) or [Subscribe to my
-      Newsletter](thinkthinkthink.substack.com/subscribe)
+      Newsletter](http://thinkthinkthink.substack.com/subscribe).
     section_id: hello
     title: Hello
     type: intro
