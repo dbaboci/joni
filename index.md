@@ -10,7 +10,7 @@ sections:
         url: http://thinkthinkthink.substack.com/subscribe
     component: intro.html
     content: Hello world, I am Joni Baboci, an architect, planner, knowledge seeker
-      and all-around urban enthusiast. This is my modest static online notebook
+      & all-around urban enthusiast. This is my modest static online notebook
       where I publish thoughts in tandem with interesting bits of knowledge.
     section_id: hello
     title: Hello
