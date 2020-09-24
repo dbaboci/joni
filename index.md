@@ -4,6 +4,10 @@ sections:
   - actions:
       - label: About me
         url: /about
+      - label: Follow me on Twitter
+        url: http://www.twitter.com/dbaboci
+      - label: Subscribe to my Newsletter
+        url: http://thinkthinkthink.substack.com/subscribe
     component: intro.html
     content: Hello world, I am Joni Baboci, a dad, architect, planner, knowledge
       seeker and all-around urban enthusiast. This is my modest home on the web
