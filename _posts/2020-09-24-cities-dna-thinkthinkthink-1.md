@@ -1,5 +1,5 @@
 ---
-title: "Cities & DNA - ThinkThinkThink #1"
+title: "Cities & DNA: ThinkThinkThink #1"
 subtitle: "DNA is not a blueprint - how can we leverage that fact to build
   better cities + an amazing book on the history of Rome and three articles on
   evolution, Wuhan, and bitcoin. "
