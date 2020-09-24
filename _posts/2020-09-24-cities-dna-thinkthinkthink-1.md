@@ -58,6 +58,6 @@ In this sense urban planning cannot be interpreted as a finite process. **Plans 
 
 This was the first issue of [Think Think Think](https://thinkthinkthink.substack.com) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net) on cities, science and complexity. If you liked it why not subscribe?
 
-[Subscribe now](%%checkout_url%%)
+[Subscribe now](https://thinkthinkthink.substack.com/subscribe)
 
 Thanks for reading; don't hesitate to reach out at [dbaboci@gmail.com](mailto:dbaboci@gmail.com) or [@dbaboci](http://twitter.com/dbaboci).
