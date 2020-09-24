@@ -28,6 +28,11 @@
       "title": "Goodreads",
       "icon": "fa-goodreads",
       "url": "https://www.goodreads.com/dbaboci"
+    },
+    {
+      "title": "Substack",
+      "icon": "fa-substack",
+      "url": "http://thinkthinkthink.substack.com/subscribe"
     }
   ]
 }
