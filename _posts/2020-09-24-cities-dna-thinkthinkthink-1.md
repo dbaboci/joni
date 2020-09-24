@@ -4,7 +4,10 @@ subtitle: "DNA is not a blueprint - how can we leverage that fact to build
   better cities + an amazing book on the history of Rome and three articles on
   evolution, Wuhan, and bitcoin. "
 date: 2020-09-23T08:42:16.554Z
-excerpt: ""
+thumb_img_path: /images/logo-inverted-1-.jpg
+excerpt: "DNA is not a blueprint - how can we leverage that fact to build better
+  cities + an amazing book on the history of Rome and three articles on
+  evolution, Wuhan, and bitcoin. "
 layout: post
 ---
 > *“A city is more than a place in space, it is a drama in time.” - Patrick Geddes*
@@ -41,7 +44,15 @@ In this sense urban planning cannot be interpreted as a finite process. **Plans 
 
 #### Five Tweets
 
-[](https://twitter.com/zacharylipton/status/1302472985224323073?s=20)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only reason why tenure exists is as a protection of academic freedom. We should start giving it as a reward for actually (&amp; effectively) exercising that freedom, not as a job perk dictated by market conditions, or (even worse) as a reward for conformity.</p>&mdash; Zachary Lipton (@zacharylipton) <a href="https://twitter.com/zacharylipton/status/1302472985224323073?ref_src=twsrc%5Etfw">September 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Imagine going back in time one year and showing people this picture of a stadium full of cardboard fans and a sky of orange. <a href="https://t.co/8SU5qhfAxf">pic.twitter.com/8SU5qhfAxf</a></p>&mdash; Mike Elgan (@MikeElgan) <a href="https://twitter.com/MikeElgan/status/1304500599468171264?ref_src=twsrc%5Etfw">September 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">People keep telling me humans can&#39;t plan for the long-term, on the scale of decades of centuries. But here are 45 examples of &#39;cathedral thinking&#39; from the past 5000 years, featured in The Good Ancestor 1/2 <a href="https://t.co/UNhvL4tYp6">pic.twitter.com/UNhvL4tYp6</a></p>&mdash; Roman Krznaric (@romankrznaric) <a href="https://twitter.com/romankrznaric/status/1300388473900326912?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just recorded all my lectures for Quantitative Social Science Methods, I -- the first course in the Harvard Government Dept graduate methods sequence -- and am making them available publicly here: <a href="https://t.co/oQfRetbRZr">https://t.co/oQfRetbRZr</a> I hope you find them useful for your course, or yourself</p>&mdash; Gary King (@kinggary) <a href="https://twitter.com/kinggary/status/1295423190831902721?ref_src=twsrc%5Etfw">August 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Today&#39;s Episode of &quot;Go Home Traffic Engineer, You&#39;re Drunk&quot;: drunk traffic engineer designs huge interchange but forgets to put it in 3D. Is pleased with himself nonetheless. (pic: <a href="https://twitter.com/vincent313?ref_src=twsrc%5Etfw">@vincent313</a>, h/t <a href="https://twitter.com/FietsRia?ref_src=twsrc%5Etfw">@FietsRia</a>) <a href="https://t.co/g75On3uIZ1">pic.twitter.com/g75On3uIZ1</a></p>&mdash; Lennart Nout (@lennartnout) <a href="https://twitter.com/lennartnout/status/1308258454587482112?ref_src=twsrc%5Etfw">September 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 - - -
 
