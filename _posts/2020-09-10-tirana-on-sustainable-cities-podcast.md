@@ -14,8 +14,6 @@ Had a fantastic conversation with Jarret Fisher on her awesome podcast regarding
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3ZdtvV5dcJWaQLwhWCmDeZ"width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
-
 Full Transcript:
 
 **Jarrett Fisher**
