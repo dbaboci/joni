@@ -1,9 +1,9 @@
 ---
-title: About Me
+title: Me
 img_path: ""
 menus:
   main:
-    title: About me
+    title: me
     weight: 2
 layout: page
 ---
