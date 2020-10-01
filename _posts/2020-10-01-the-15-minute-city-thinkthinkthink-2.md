@@ -28,13 +28,13 @@ Most importantly however cities serve as highly efficient labor markets - they c
 
 #### Three Links
 
-[Complexity Scientist Beats Traffic Jams Through Adaptation](https://www.quantamagazine.org/complexity-scientist-beats-traffic-jams-through-adaptation-20200928/?s=09) by [Rodrigo Pérez Ortega](https://twitter.com/rpocisv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)\
+[Complexity Scientist Beats Traffic Jams Through Adaptation](https://www.quantamagazine.org/complexity-scientist-beats-traffic-jams-through-adaptation-20200928/?s=09) by [Rodrigo Pérez Ortega](https://twitter.com/rpocisv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)<br>
 *How letting **mobility systems self-organize** works better than controlling them.*
 
-[An Asymmetric Landscape: The Shapes of Blue & Red News](https://medium.com/bluewhitered/an-asymmetric-landscape-the-different-shapes-of-blue-red-news-cf5e089f24f7) by [Anthony Koithra](https://twitter.com/akoithra)\
+[An Asymmetric Landscape: The Shapes of Blue & Red News](https://medium.com/bluewhitered/an-asymmetric-landscape-the-different-shapes-of-blue-red-news-cf5e089f24f7) by [Anthony Koithra](https://twitter.com/akoithra)<br>
 *Visualizing the **political shape of news** networks.*
 
-[How Cities are Perceived by Tourists and Locals Through Maps](https://www.archdaily.com/920002/a-series-of-maps-reveals-the-difference-in-how-cities-are-perceived-by-tourists-and-locals) by [Romullo Barato](https://twitter.com/RomulloBaratto)\
+[How Cities are Perceived by Tourists and Locals Through Maps](https://www.archdaily.com/920002/a-series-of-maps-reveals-the-difference-in-how-cities-are-perceived-by-tourists-and-locals) by [Romullo Barato](https://twitter.com/RomulloBaratto)<br>
 *How **routine and path-dependencies** shape the way we experience cities.*
 
 #### Five Tweets
