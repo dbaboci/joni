@@ -1,5 +1,5 @@
 ---
-title: "The 15-minute city - thinkthinkthink #2"
+title: "The 15-minute city: ThinkThinkThink #2"
 subtitle: Grounding the latest trend in a long history of cold efficiency versus
   polycentrism.
 date: 2020-10-01T15:36:19.082Z
