@@ -44,37 +44,59 @@ Conclusively it is evident that Smithson treated entropy in a multitude of ways 
 **Footnotes**
 
 ¹ Graziani, p.427
+
 ² Ibid, p.427
+
 ³ Graziani p.428
+
 ⁴ Graziani, p.430
+
 ⁵ Bargellesi, p.121
+
 ⁶ Graziani, p.433
+
 ⁷ Hobbs, p.197
+
 ⁸ Ibid, p.197
+
 ⁹ Ibid, p.197
+
 ¹⁰ Barghellesi, p.177
+
 ¹¹ Bargellesi, p.13
+
 ¹² Hobbs, p.132
+
 ¹³ Hobbs, p.133
+
 ¹⁴ Hobbs, p.133
+
 ¹⁵ Bargellesi, p.109
+
 ¹⁶ Hobbs, p.132
+
 ¹⁷ Bargellesi, p.111
+
 ¹⁸ Linder, p.12
+
 ¹⁹ Hobbs, p.114
+
 ²⁰ Linder, p.12
+
 ²¹ Hobbs, p.115
+
 ²² Graziani, p.433
+
 ²³ Graziani, p.441
 
-**Bibliography**\
+**Bibliography**
 
-Bargellesi, Guglielmo. Robert Smithson Slideworks. Verona: Carlo Frua. 1997. Print.\
+Bargellesi, Guglielmo. Robert Smithson Slideworks. Verona: Carlo Frua. 1997. Print.
 
 Graziani, Ron. Robert Smithson‟s Picturable Situation: Blasted Landscapes from the 1960s. Critical Inquiry, Vol. 20, No. 3 (Spring, 1994), pp.419-451. Chicago: University of Chicago Press, 1994. Stable URL: http://www.jstor.org/stable/1343864
-\
+
 Hobbs, Robert. Robert Smithson: Sculpture. London: Cornell University Press. 1981. Print
-\
+
 Lee, Pamela M. Chronophobia: On Time in the Art of the 1960s. Cambridge: MIT Press, 2004. Print.
-\
+
 Linder, Mark. Towards „A New Type of Building‟: Robert Smithson‟s Architectural Criticism. In Robert Smithson ex. cat. MOCA LA (Berkeley: UCP, 2004).
