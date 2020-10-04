@@ -1,6 +1,6 @@
 ---
 title: "Terragni and La Casa del Fascio: Rationalism and Fascism"
-subtitle: an essay reconciling modernism and fascism in Terragni’s Casa del Fascio
+subtitle: ""
 date: 2010-04-20T22:00:00.000Z
 thumb_img_path: /images/casa_del_fascio_dal_2017.jpg
 excerpt: "Giuseppe Terragni is a world renowned Italian architect who practiced
