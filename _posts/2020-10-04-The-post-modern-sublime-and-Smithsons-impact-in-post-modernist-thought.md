@@ -4,9 +4,7 @@ date: 2010-04-20T22:00:00.000Z
 thumb_img_path: /images/whatsapp-image-2020-10-04-at-10.12.04.jpeg
 excerpt: The multitude of philosophy, literature, art and architectural theories
   and concepts produced to oppose strict modernist formalism, were seminal in
-  allowing a modern re-interpretation of the sublime in the early seventies. The
-  uncanny feeling of the term „post-modern sublime‟ is therefore a reaction to
-  the combination of two very familiar concepts into one unfamiliar idea.
+  allowing a modern re-interpretation of the sublime in the early seventies.
 layout: post
 ---
 *Submitted as part of University of Toronto’s ARC1036 final essay coursework on April 21st 2010.*
