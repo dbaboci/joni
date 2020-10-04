@@ -1,6 +1,7 @@
 ---
 title: The “post-modern sublime” and Smithson’s impact in post-modernist thought
 date: 2010-04-20T22:00:00.000Z
+thumb_img_path: /images/whatsapp-image-2020-10-04-at-10.12.04.jpeg
 excerpt: The multitude of philosophy, literature, art and architectural theories
   and concepts produced to oppose strict modernist formalism, were seminal in
   allowing a modern re-interpretation of the sublime in the early seventies. The
