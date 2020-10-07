@@ -3,6 +3,7 @@ title: "Mobility is counter-intuitive: ThinkThinkThink #3"
 subtitle: On William Stanley Jevons, induced demand and Braess' paradox
 date: 2020-10-07T10:12:30.067Z
 thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_892b0902-5f38-4872-8b5c-ff7cf709f648_1920x400.jpeg
+excerpt: On William Stanley Jevons, induced demand and Braess' paradox
 layout: post
 ---
 As I mentioned in the [previous chapter](https://thinkthinkthink.substack.com/p/the-15-minute-city-thinkthinkthink) our need for understanding leads to simplification. Simplicity is lauded in aesthetics. It appeals to us. **We strive for clean lines, straight streets & ideal forms.** [James Scott describes](https://www.goodreads.com/book/show/20186.Seeing_Like_a_State) how the modern state - in an attempt to control at scale - standardizes and coarse grains. In the process, reality loses meaning: it becomes a means to an end, rather than an end in itself. It follows that approaches to resolving conflict in complex systems are counter-intuitive and achieve results non-linearly. **What seems easy and direct is neither.**
