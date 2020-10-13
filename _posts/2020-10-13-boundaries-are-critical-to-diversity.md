@@ -3,6 +3,7 @@ title: "Boundaries are critical to diversity: ThinkThinkThink #4"
 subtitle: Preserving diversity and guaranteeing resiliency through separation.
 date: 2020-10-13T14:38:55.470Z
 thumb_img_path: /images/boundaries.jpg
+excerpt: Preserving diversity and guaranteeing resiliency through separation.
 layout: post
 ---
 The narrative of these short notes drives towards a more elegant understanding of the messy nature of everyday life. Whether it's about how we [plan our cities](https://thinkthinkthink.substack.com/p/cities-and-dna-september-2020), how we [design our neighborhoods](https://thinkthinkthink.substack.com/p/the-15-minute-city-thinkthinkthink), or how we [move around town](https://thinkthinkthink.substack.com/p/mobility-is-counter-intuitive-thinkthinkthink) - there are few black and white solutions. **Truth is usually a moving target, somewhere in the greyscale gradient.** Crucially the options are not simply black, white, and grey but rather black, white, and an infinite sea of greys in which you can easily lose yourself. That's where the importance of boundaries becomes evident. **In most complex systems boundaries are [counter-intuitively](https://thinkthinkthink.substack.com/p/mobility-is-counter-intuitive-thinkthinkthink) the key to preserving diversity and guaranteeing resiliency.**
