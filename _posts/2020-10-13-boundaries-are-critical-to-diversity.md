@@ -1,5 +1,5 @@
 ---
-title: Boundaries are critical to diversity
+title: "Boundaries are critical to diversity: ThinkThinkThink #4"
 subtitle: Preserving diversity and guaranteeing resiliency through separation.
 date: 2020-10-13T14:38:55.470Z
 thumb_img_path: /images/boundaries.jpg
