@@ -3,6 +3,7 @@ title: "urban military baroque: ThinkThinkThink #6"
 subtitle: 21st century cities need to adopt guerilla tactics
 date: 2020-10-27T15:56:37.596Z
 thumb_img_path: /images/ezgif.com-gif-maker.gif
+excerpt: 21st century cities need to adopt guerilla tactics
 layout: post
 ---
 <!--StartFragment-->
