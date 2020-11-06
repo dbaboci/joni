@@ -41,7 +41,7 @@ Cities are incremental: successful cities are able to informally digest and meta
 
 ![alt](https://apolitical.co/wp-content/uploads/2020/10/image1-1.jpg)
 
-In A Pattern Language, [Christopher Alexander declares](https://roamresearch.com/#/app/joni/page/uNxCGyvp9) that neither towns, nor neighbourhoods ''can be created by centralised authority, or by laws, or by master plans. We believe instead that they can emerge gradually and organically, almost of their own accord.'' [He argues](https://roamresearch.com/#/app/joni/page/E8xlvlTJ7) that, traditionally, there was little need for modern urban planning because the slow pace of change allowed sufficient time for adaptation.
+In A Pattern Language, Christopher Alexander declares that neither towns, nor neighbourhoods ''can be created by centralised authority, or by laws, or by master plans. We believe instead that they can emerge gradually and organically, almost of their own accord.'' He argues that, traditionally, there was little need for modern urban planning because the slow pace of change allowed sufficient time for adaptation.
 
 He presents a network of 253 patterns — urban and architectural rules and concepts which can be combined to create urban form: think of them as words, that can be collated into sentences. Alexander's vision is brilliant but, unfortunately, his 1977 masterpiece has been probably read more often by computer programmers than by urban planners.
 
