@@ -22,11 +22,6 @@
       "title": "Goodreads",
       "icon": "fa-goodreads",
       "url": "https://www.goodreads.com/dbaboci"
-    },
-    {
-      "url": "http://thinkthinkthink.substack.com/subscribe",
-      "title": "Newsletter",
-      "icon": "fa-envelope"
     }
   ]
 }
