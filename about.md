@@ -7,7 +7,7 @@ menus:
     weight: 2
 layout: page
 ---
-<p><img src="https://joni.baboci.net/images/Joni%20Baboci%20Small%20Official.JPG" width="30%" style="padding: 0 15px; float: left;"></p>
+<p><img src="https://joni.baboci.net/images/Joni%20Baboci%20Small%20Official.JPG" width="20%" style="padding: 0 15px; float: left;"></p>
 
 Hi there, I am Joni Baboci; a planner, architect and all-around urban enthusiast currently working as the Senior Advisor for Planning and Urban Development to the \[Municipality of Tirana](http://www.tirana.al). 
 
