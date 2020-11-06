@@ -21,11 +21,11 @@
     {
       "title": "Substack",
       "url": "https://thinkthinkthink.substack.com/",
-      "icon": "fa-newspaper"
+      "icon": "fa-bookmark"
     },
     {
       "title": "Goodreads",
-      "icon": "fa-square",
+      "icon": "fa-goodreads",
       "url": "https://www.goodreads.com/dbaboci"
     }
   ]
