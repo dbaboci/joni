@@ -7,8 +7,6 @@ menus:
     weight: 2
 layout: page
 ---
-![](/images/Joni Baboci Small Official.JPG)
-
 Hi there, I am Joni Baboci; a planner, architect and all-around urban enthusiast currently working as the Senior Advisor for Planning and Urban Development to the [Mayor of Tirana](http://www.tirana.al). 
 
 My previous experiences include stints in the private sector and leading a groundbreaking planning and architecture start-up for the Albanian Government nicknamed [Atelier Albania](http://planifikimi.gov.al/index.php?id=a1r&L=2). I have consulted for various multilateral and cultural institutions including the World Bank and the Triennale of Milano. 
