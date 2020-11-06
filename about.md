@@ -1,5 +1,5 @@
 ---
-title: Joni
+title: Me
 img_path: ""
 menus:
   main:
