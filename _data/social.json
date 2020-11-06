@@ -24,9 +24,9 @@
       "url": "https://www.goodreads.com/dbaboci"
     },
     {
-      "title": "Substack",
-      "icon": "fa-newspaper-o",
-      "url": "http://thinkthinkthink.substack.com/subscribe"
+      "url": "http://thinkthinkthink.substack.com/subscribe",
+      "title": "Newsletter",
+      "icon": "fa-envelope"
     }
   ]
 }
