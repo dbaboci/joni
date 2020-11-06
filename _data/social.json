@@ -19,14 +19,14 @@
       "url": "https://www.linkedin.com/in/jonibaboci/"
     },
     {
-      "title": "Goodreads",
-      "icon": "fa-goodreads",
-      "url": "https://www.goodreads.com/dbaboci"
-    },
-    {
       "title": "Substack",
       "url": "https://thinkthinkthink.substack.com/",
       "icon": "fa-newspaper"
+    },
+    {
+      "title": "Goodreads",
+      "icon": "fa-goodreads",
+      "url": "https://www.goodreads.com/dbaboci"
     }
   ]
 }
