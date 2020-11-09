@@ -1,5 +1,5 @@
 ---
-title: "resilience: thinkthinkthink #8"
+title: "resilience | thinkthinkthink #8"
 subtitle: redundancy & adaptability in complex systems.
 date: 2020-11-09T23:30:52.728Z
 excerpt: redundancy & adaptability in complex systems.
