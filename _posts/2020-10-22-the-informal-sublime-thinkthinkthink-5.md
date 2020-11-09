@@ -1,5 +1,5 @@
 ---
-title: "The informal sublime: ThinkThinkThink #5"
+title: "The informal sublime | thinkthinkthink #5"
 subtitle: How informal processes are vital to designed systems.
 date: 2020-10-22T10:43:30.329Z
 thumb_img_path: /images/screenshot-2020-10-22-013642.jpg
