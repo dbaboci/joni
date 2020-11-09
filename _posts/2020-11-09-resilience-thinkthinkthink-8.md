@@ -78,3 +78,7 @@ In [Life's Information Hierarchy](https://sfi-edu.s3.amazonaws.com/sfi-edu/prod
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The mysterious separation and beautiful movements of trees <a href="https://t.co/UOIKyuHWLu">pic.twitter.com/UOIKyuHWLu</a></p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/1324877901779628037?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+This was the eighth issue of [thinkthinkthink](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you really liked it why not subscribe? [Subscribe now](%%checkout_url%%)<!--EndFragment-->
