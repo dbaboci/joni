@@ -1,5 +1,5 @@
 ---
-title: "emergence: ThinkThinkThink #7"
+title: "emergence | thinkthinkthink #7"
 subtitle: on the most characteristic element of complex systems
 date: 2020-11-03T20:06:50.281Z
 thumb_img_path: /images/ezgif.com-gif-maker-3-.gif
