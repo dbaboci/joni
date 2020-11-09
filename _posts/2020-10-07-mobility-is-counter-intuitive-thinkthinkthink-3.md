@@ -1,5 +1,5 @@
 ---
-title: "Mobility is counter-intuitive: ThinkThinkThink #3"
+title: "Mobility is counter-intuitive | thinkthinkthink #3"
 subtitle: On William Stanley Jevons, induced demand and Braess' paradox
 date: 2020-10-07T10:12:30.067Z
 thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_892b0902-5f38-4872-8b5c-ff7cf709f648_1920x400.jpeg
