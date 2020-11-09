@@ -14,7 +14,7 @@ Long-lasting social, political and biological systems share one principal common
 
 > *"Each of these small failures is necessary to cause catastrophe but only the combination is sufficient to permit failure." - [Richard Cook](https://how.complexsystems.fail/)*
 
-This approach is sometimes referred to as the[swiss-cheese model](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0090) - most of us have recently encountered it illustrating viral proliferation. Masks, social-distancing or handwashing each contribute in different but correlational ways in halting infection.
+This approach is sometimes referred to as the [swiss-cheese model](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0090) - most of us have recently encountered it illustrating viral proliferation. Masks, social-distancing or handwashing each contribute in different but correlational ways in halting infection.
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d00f6b1-d708-4daa-ae70-b7acd43553ff_1077x313.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d00f6b1-d708-4daa-ae70-b7acd43553ff_1077x313.png)
 
@@ -50,7 +50,9 @@ In [Life's Information Hierarchy](https://sfi-edu.s3.amazonaws.com/sfi-edu/prod
 *A relevant (old) take on the **geography of class** & urban-rural political divide*
 
 [How 30 Lines of Code Blew Up a 27-Ton Generator](https://www.wired.com/story/how-30-lines-of-code-blew-up-27-ton-generator/) by [Andy Greenberg](https://twitter.com/a_greenberg)\
-*On the **lethality of GIFs***[Amazon is a less efficient company than Walmart](https://www.glistatigenerali.com/borsa/amazon-is-a-less-efficient-company-than-wal-mart/) by Andrew Sentance\
+*On the **lethality of GIFs***
+
+[Amazon is a less efficient company than Walmart](https://www.glistatigenerali.com/borsa/amazon-is-a-less-efficient-company-than-wal-mart/) by Andrew Sentance\
 *An interesting take on **dis-economies of scale***
 
 ### Tweets
