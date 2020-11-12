@@ -8,6 +8,8 @@ layout: page
 ---
 *A list of articles and interviews about my work*
 
+**[Planning the child-friendly City](https://bycs.org/planning-the-child-friendly-city/)**<br/>[Lucas Snaije](https://twitter.com/lucas_snaije) - BYCS, 12 Nov 2020
+
 **[Tirana - Sustainable Cities Podcast](https://open.spotify.com/episode/3ZdtvV5dcJWaQLwhWCmDeZ?si=V__VTChPScuSU8G9xOo-Ng)**<br/>Jarrett Fisher - SDGs and Cities, 10 Sep 2020
 
 **[Bizarre Communist Folly to Be Reborn as Albanian Education Center](https://www.bloomberg.com/news/articles/2020-01-17/bizarre-communist-pyramid-reborn-as-albanian-education-center)**<br/>[Richard Vines](https://twitter.com/Richardvines) - Bloomberg, 17 Jan 2020
