@@ -14,3 +14,5 @@ My previous experiences include stints in the private sector and leading a groun
 I have meddled with planning and development at different scales working on the national plan of Albania, the regional plan for the coast of the country, the regional plan for Tirana-Durres region - as well as the Development Framework for the City of Tirana [TR030](https://tirana.al/artikull/plani-i-pergjithshem-vendor).
 
 I like [cities](https://thinkthinkthink.substack.com/), [books](https://www.goodreads.com/dbaboci) & [twitter](https://twitter.com/dbaboci).
+
+<iframe src="https://thinkthinkthink.substack.com/embed" width="100%" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
