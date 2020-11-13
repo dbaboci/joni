@@ -15,10 +15,10 @@ I have meddled with planning and development at different scales working on the 
 
 I like [cities](https://thinkthinkthink.substack.com/), [books](https://www.goodreads.com/dbaboci) & [twitter](https://twitter.com/dbaboci).
 
-<!--StartFragment-->
+
+
+- - -
 
 Are you interested in **cities, complex systems and/or science**? If the answer is yes you can subscribe to my weekly newsletter:
-
-<!--EndFragment-->
 
 <iframe src="https://thinkthinkthink.substack.com/embed" width="100%" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
