@@ -90,4 +90,6 @@ Did you like this issue of [thinkthinkthink](https://thinkthinkthink.substack.c
 
 - - -
 
-This was the ninth issue of [thinkthinkthink](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you really liked it why not subscribe? [Subscribe now](http://thinkthinkthink.substack.com/subscribe)<!--EndFragment-->
+This was the ninth issue of [thinkthinkthink](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you really liked it why not subscribe?
+
+<iframe src="https://thinkthinkthink.substack.com/embed" width="100%" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
