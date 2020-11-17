@@ -74,6 +74,4 @@ Any ideas? Hit reply or let me know through [twitter](https://twitter.com/dbaboc
 
 This was the fourth issue of [Think Think Think](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you liked it why not subscribe?
 
-[Subscribe now](%%checkout_url%%)
-
-Thanks for reading; don't hesitate to reach out at [dbaboci@gmail.com](mailto:dbaboci@gmail.com) or [@dbaboci](http://twitter.com/dbaboci).
+<iframe src="https://thinkthinkthink.substack.com/embed" width="100%" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
