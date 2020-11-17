@@ -80,14 +80,10 @@ This artificial form of entropy is similar to [work-to-rule strikes](https://en
 
 <!--EndFragment--><!--StartFragment-->
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Damn... I never new the backstory of how Vladimir Kamarov became the first man to die in space. He \\*knowingly\\* went realizing he would die due to problems with the mission, to save his friend Yuri Gagarin. <a href="https://t.co/cNDXvxGbb8">pic.twitter.com/cNDXvxGbb8</a></p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1316075221082804224?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Damn... I never new the backstory of how Vladimir Kamarov became the first man to die in space. He \\\*knowingly\\\* went realizing he would die due to problems with the mission, to save his friend Yuri Gagarin. <a href="https://t.co/cNDXvxGbb8">pic.twitter.com/cNDXvxGbb8</a></p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1316075221082804224?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--EndFragment--><!--StartFragment-->
 
 This was the fourth issue of [Think Think Think](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you liked it why not subscribe?
 
-[Subscribe now](https://thinkthinkthink.substack.com/subscribe)
-
-Thanks for reading; don’t hesitate to reach out at [dbaboci@gmail.com](mailto:dbaboci@gmail.com) or [@dbaboci](http://twitter.com/dbaboci).
-
-<!--EndFragment-->
+<iframe src="https://thinkthinkthink.substack.com/embed" width="100%" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
