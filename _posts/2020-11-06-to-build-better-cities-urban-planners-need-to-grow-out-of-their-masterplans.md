@@ -5,9 +5,9 @@ date: 2020-11-06T17:25:33.580Z
 thumb_img_path: /images/screenshot-2020-11-06-184023.jpg
 layout: post
 ---
-<!--StartFragment-->
+*[This piece](https://apolitical.co/en/solution_article/build-better-cities) was originally published on [Apolitical](http://apolitical.co/).*
 
-*This piece was originally published on [Apolitical](https://apolitical.co/en/solution_article/build-better-cities).*
+<!--EndFragment-->
 
 <!--EndFragment--><!--StartFragment-->
 
