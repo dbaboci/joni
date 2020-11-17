@@ -41,7 +41,7 @@ In [Rebel Cities](https://www.goodreads.com/book/show/13095855-rebel-cities), 
 *On tearing down the dichotomy and linear thinking between **parts and wholes**.*
 
 *[When Biology Isn’t Messy](http://www.lifeiscomputation.com/when-biology-isnt-messy/) by [Hessam Akhlaghpour](https://twitter.com/theHessam)**\
-**How** running in degraded mode\*\* does not make something less elegant (and mechanical gears in insects.)*
+How\*\* running in degraded mode\*\* does not make something less elegant (and mechanical gears in insects.)*
 
 [Mumbai’s Iconic Art Deco Buildings Were Made to Conquer Disease](https://www.bloomberg.com/news/articles/2020-10-30/how-india-s-bombay-deco-buildings-battle-disease) by [Ronojoy Mazumdar](https://twitter.com/ronomaz)*\
 On **Bombay Deco**, epidemics and architecture.*
@@ -72,10 +72,6 @@ On **Bombay Deco**, epidemics and architecture.*
 
 <!--StartFragment-->
 
-This was the seventh issue of [Think Think Think](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you really liked it consider sharing it with your network (or that one guy who you think might really enjoy this one):
+This was the seventh issue of [Think Think Think](https://thinkthinkthink.substack.com/) - a periodic newsletter by [Joni Baboci](https://joni.baboci.net/) on cities, science and complexity. If you really liked it consider subscribing:
 
-[Share](https://thinkthinkthink.substack.com/p/emergence?token=eyJ1c2VyX2lkIjoxMDI2MzY1LCJwb3N0X2lkIjoxNzMyMTQxNSwiaWF0IjoxNjA0NDM0MDY1LCJpc3MiOiJwdWItMTAxNDg1Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.iYm_5kOQnv6dCI_ZdkjKm6uUn5Hw_qMYTT_76xcF8xE&utm_source=substack&utm_medium=email&utm_content=share&action=share) | [Subscribe](https://thinkthinkthink.substack.com/subscribe)
-
-Thanks for reading; don't hesitate to reach out at [dbaboci@gmail.com](mailto:dbaboci@gmail.com) or [@dbaboci](http://twitter.com/dbaboci).
-
-<!--EndFragment-->
+<iframe src="https://thinkthinkthink.substack.com/embed" width="100%" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
