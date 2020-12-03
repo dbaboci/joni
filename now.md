@@ -12,9 +12,9 @@ This is an always updated page covering my current interests as per the [/now pa
 
 *Ranked from most concrete and short-term to most abstract longer-term:* 
 
-* I am consulting for the [Triennale of Milano](https://www.triennale.org/en/).
-* I am writing a book.
-* I am finalizing my startup on city sensing, urban planning and artificial intelligence.
+* I am consulting and conducting research on the urban circular economy for the [Triennale of Milano](https://www.triennale.org/en/).
+* I am writing a book that looks at cities as complex systems.
+* I am [exploring](beondeck.com) a startup on urban design, planning and experiencing cities.
 
 **Personal**
 
