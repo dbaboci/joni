@@ -24,3 +24,7 @@ This is an always updated page covering my current interests as per the [/now pa
 **Current Location**
 
 * Tirana
+
+**Soundtrack**
+
+<iframe scrolling="no" frameborder="0" allowTransparency="true" src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=EF5466&layout=&size=medium&type=playlist&id=2301948262&app_id=1" width="700" height="350"></iframe>
