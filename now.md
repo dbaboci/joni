@@ -27,7 +27,7 @@ This is an always updated page covering my current interests as per the [/now pa
 
 **Currently Reading**
 
-<script src="https://www.goodreads.com/review/grid_widget/4485647.Currently%20reading?cover_size=medium&hide_link=true&hide_title=true&num_books=1&order=d&shelf=currently-reading&sort=date_added&widget_id=1609680039" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/4485647.Currently%20reading?cover_size=medium&hide_link=true&hide_title=true&num_books=1&order=d&shelf=currently-reading&sort=date_added&widget_id=1609680039" type="text/javascript" charset="utf-8"></script><p>
 
 **Soundtrack**
 
