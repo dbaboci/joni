@@ -25,6 +25,10 @@ This is an always updated page covering my current interests as per the [/now pa
 
 * Tirana
 
+**Currently Reading**
+
+<script src="https://www.goodreads.com/review/grid_widget/4485647.Currently%20reading?cover_size=small&hide_link=true&hide_title=true&num_books=2&order=d&shelf=currently-reading&sort=date_added&widget_id=1609679639" type="text/javascript" charset="utf-8"></script>
+
 **Soundtrack**
 
 <iframe scrolling="no" frameborder="0" allowTransparency="true" src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=EF5466&layout=&size=medium&type=playlist&id=2301948262&app_id=1" width="700" height="350"></iframe>
