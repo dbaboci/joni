@@ -1,7 +1,7 @@
 ---
 title: "informal pop culture aesthetics | thinkthinkthink #14"
 subtitle: a brief foray on the informal aesthetics of Rose Island
-date: 2021-01-05T11:32:31.981Z
+date: 2020-12-22T11:32:31.981Z
 thumb_img_path: /images/cars.jpg
 excerpt: a brief foray on the informal aesthetics of Rose Island
 layout: post
@@ -12,19 +12,19 @@ Netflix has somehow liberalized filmmaking: it not only finances movies all over
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e82fdb8-ce21-4e18-bb7e-014d8655275f_1850x791.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e82fdb8-ce21-4e18-bb7e-014d8655275f_1850x791.png)
 
-Screencap from Rose Island
+*Screencap from Rose Island*
 
 The movie tells the [true story](https://en.wikipedia.org/wiki/Republic_of_Rose_Island) of the rise and fall of an informal, independent micronation outside of Italy's territorial waters; one of numerous independent [micronations](https://en.wikipedia.org/wiki/List_of_micronations) that sprung out in the 60s. Considering that 50% of the planet's surface is *mare liberum* - international waters that do not belong to any State's jurisdiction - it is interesting how we do not see even more examples of independent sea steading. A [handful of attempts](https://www.tatler.com/article/tech-tycoons-moving-to-seasteads) seem to be pioneering the way to water based city-states; which never fail to remind me of [Waterworld](https://www.youtube.com/watch?v=NpKbULrB9Z8).
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37ff0f40-bc1f-4880-82a5-c40646156c80_1280x626.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37ff0f40-bc1f-4880-82a5-c40646156c80_1280x626.png)
 
-Map of International Waters (excluding Exclusive Economic Zones)
+*Map of International Waters (excluding Exclusive Economic Zones)*
 
 In *Rose Island* the island-structure "sprawls" at the periphery of international waters. In typical informal fashion, it locates itself on the outskirts of the city of Rimini; in doing so it is able to leverage the touristic crowds of the center, while enjoying the freedom often found in boundaries and borders. As most informal settlements it's relationship to authority and formal governments isn’t clear.
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fae827125-e97b-41de-a261-f59fa625943c_1078x328.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fae827125-e97b-41de-a261-f59fa625943c_1078x328.png)
 
-Screencaps from Rose Island
+*Screencaps from Rose Island*
 
 The *island* itself is a simple structure which broadly reminds of informal houses built all over South America, North Africa or the Balkans. Rose Island grows during the movie, at some point getting a partial second floor - but always keeping the bare concrete structure, exposed brick and overall feeling of incompleteness. This resembles the informal typology where the aspiration and practical realities of the families inhabiting the houses are crucial to the construction morphology. **Dwellings are periodically enlarged; additional floors are added with family members’ coming of age. Reinforcing bars typically stick out of the roof as a physical representation of hope and future.**
 
@@ -40,9 +40,7 @@ Villa Savoye (1931), Rose Island (1968), Torre Velasca (1957)
 
 - - -
 
-Did you like this issue of [thinkthinkthink](https://thinkthinkthink.substack.com/)? Consider sharing it with your network:
-
-[Share](https://thinkthinkthink.substack.com/p/informal-pop-culture-aesthetics-thinkthinkthink?token=eyJ1c2VyX2lkIjoxMDI2MzY1LCJwb3N0X2lkIjoyNzQ3MzI1NSwiaWF0IjoxNjA5ODQ2MzIwLCJpc3MiOiJwdWItMTAxNDg1Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.xFeySWzw2z2BvZTORz83YooscFZZigTbQUxPf-GZdpo&utm_source=substack&utm_medium=email&utm_content=share&action=share)
+Did you like this issue of [thinkthinkthink](https://thinkthinkthink.substack.com/)? Consider sharing it with your network: [Share](https://thinkthinkthink.substack.com/p/informal-pop-culture-aesthetics-thinkthinkthink)
 
 - - -
 
