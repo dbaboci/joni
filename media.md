@@ -8,6 +8,8 @@ layout: page
 ---
 *A list of articles and interviews about my work*
 
+**[Transforming Tirana: Joni Baboci talks public space, pedestrianisation and proximity to nature](https://www.buildingcentre.co.uk/news/articles/transforming-tirana)**<br/>[Vanessa Norwood](https://twitter.com/nessnorwood) - [Building Centre](https://www.buildingcentre.co.uk/), 05 Jan 2021 
+
 **[Planning the child-friendly City](https://bycs.org/planning-the-child-friendly-city/)**<br/>[Lucas Snaije](https://twitter.com/lucas_snaije) - BYCS, 12 Nov 2020
 
 **[Tirana - Sustainable Cities Podcast](https://open.spotify.com/episode/3ZdtvV5dcJWaQLwhWCmDeZ?si=V__VTChPScuSU8G9xOo-Ng)**<br/>Jarrett Fisher - SDGs and Cities, 10 Sep 2020
