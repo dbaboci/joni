@@ -56,9 +56,7 @@ Ultimately despite there being fixed limits to the impact that wealth can bring 
 
 - - -
 
-Did you like this issue of [thinkthinkthink](https://thinkthinkthink.substack.com/)? Consider sharing it with your network:
-
-[Share](https://thinkthinkthink.substack.com/p/exponential-growth-paradigm?&utm_source=substack&utm_medium=email&utm_content=share&action=share)
+Did you like this issue of [thinkthinkthink](https://thinkthinkthink.substack.com/)? Consider sharing it with your network: [Share](https://thinkthinkthink.substack.com)
 
 - - -
 
