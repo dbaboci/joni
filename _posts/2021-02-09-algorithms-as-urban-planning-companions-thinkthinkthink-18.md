@@ -2,7 +2,7 @@
 title: "Algorithms as Urban Planning Companions | thinkthinkthink #18"
 subtitle: How to start employing the fascinating innovations in Machine Learning
   to plan better cities.
-date: 2021-02-09T21:46:29.112Z
+date: 2021-01-19T21:46:29.112Z
 thumb_img_path: /images/terrain_0.gif
 excerpt: How to start employing the fascinating innovations in Machine Learning
   to plan better cities.
