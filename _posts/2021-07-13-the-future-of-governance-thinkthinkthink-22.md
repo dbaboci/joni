@@ -3,6 +3,7 @@ title: "the future of governance | thinkthinkthink #22"
 subtitle: on-chain community organization and the remote-first agora
 date: 2021-07-13T07:50:31.401Z
 thumb_img_path: https://pbs.twimg.com/media/E5RhncYUcAAEHKI?format=jpg&name=large
+excerpt: on-chain community organization and the remote-first agora
 layout: post
 ---
 *This issue on govtech is 800 words long and it takes ~3 minutes to read. I hope you enjoy it.*
@@ -38,20 +39,20 @@ Did you like this issue of [thinkthinkthink](https://thinkthinkthink.substack.c
 
 #### **📚 One Book**
 
-[This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends)\
+[This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends)
 by [Nicole Perlroth](https://twitter.com/nicoleperlroth)
 
 A compelling history of the state of electronic security in the past decade. Perlroth explores the work of the l33test hacking teams around the world, the consequences (both negative and positive) of universal encryption, and the emergence of developing-world master-hackers making millions of dollars by selling zero-days. Ultimately made me reformat, reset and update all my electronic devices.
 
 #### **📝 Three Links**
 
-[The DAO of DAOs](https://www.notboring.co/p/the-dao-of-daos) by [Packy McCormick](https://twitter.com/packyM)\
+[The DAO of DAOs](https://www.notboring.co/p/the-dao-of-daos) by [Packy McCormick](https://twitter.com/packyM)
 *Masterfully exploring Decentralized Autonomous Organizations*
 
-[Tech stack for decentralized cities](https://creators.mirror.xyz/-lNPJRz2GLWIcsuMTZqklGNEWRrY7Nk0Y33Qn6Lw4q4) by [Jonathan Hillis](https://twitter.com/JonathanHillis)\
+[Tech stack for decentralized cities](https://creators.mirror.xyz/-lNPJRz2GLWIcsuMTZqklGNEWRrY7Nk0Y33Qn6Lw4q4) by [Jonathan Hillis](https://twitter.com/JonathanHillis)
 *The main course of tech eating the world: cities.*
 
-[The world at night](https://t.co/FU7bHfbFl3?amp=1) by [Triennale Milano](https://triennale.org/magazine/the-world-at-night)\
+[The world at night](https://t.co/FU7bHfbFl3?amp=1) by [Triennale Milano](https://triennale.org/magazine/the-world-at-night)
 Where I talk about exponential growth and antifragile cities.
 
 #### **🐤 Five Tweets**
