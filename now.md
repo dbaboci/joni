@@ -23,7 +23,7 @@ This is an always updated page covering my current interests as per the [/now pa
 
 **Current Location**
 
-* Tirana
+* Dublin
 
 **Currently Reading**
 
