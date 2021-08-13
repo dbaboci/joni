@@ -8,7 +8,11 @@ layout: page
 ---
 *A list of articles and interviews about my work*
 
-**[From the Moon: Episode 4](https://open.spotify.com/episode/07VdnWMwRkq5Tny3j8ehZ9?si=oDJ70nxWRfCrjmXqBp_tOw&utm_source=copy-link&t=1641&dl_branch=1)**<br/>David Plaisant - Triennale Milano, 8 Jul 2021
+**[Architect Joni Baboci talks about his vision on the circular economy](https://triennale.org/en/magazine/architect-joni-baboci-talks-about-his-vision-on-the)**<br/>Triennale Milano, 23 Jul 2021
+
+**[The urban circular economy](https://www.eni.com/en-IT/circular-economy/urban-circular-economy.html)**<br/>Michele Gazzetti - 23 Jul 2021
+
+**[From the Moon: Episode 4](https://open.spotify.com/episode/07VdnWMwRkq5Tny3j8ehZ9?si=oDJ70nxWRfCrjmXqBp_tOw&utm_source=copy-link&t=1641&dl_branch=1)**<br/>David Plaisant, 8 Jul 2021
 
 **[Transforming Tirana: Joni Baboci talks public space & proximity to nature](https://www.buildingcentre.co.uk/news/articles/transforming-tirana)**<br/>[Vanessa Norwood](https://twitter.com/nessnorwood) - [Building Centre](https://www.buildingcentre.co.uk/), 05 Jan 2021 
 
