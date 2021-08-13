@@ -10,7 +10,7 @@ layout: page
 
 **[Architect Joni Baboci talks about his vision on the circular economy](https://triennale.org/en/magazine/architect-joni-baboci-talks-about-his-vision-on-the)**<br/>Triennale Milano, 23 Jul 2021
 
-**[The urban circular economy](https://www.eni.com/en-IT/circular-economy/urban-circular-economy.html)**<br/>Michele Gazzetti - 23 Jul 2021
+**[The urban circular economy](https://www.eni.com/en-IT/circular-economy/urban-circular-economy.html)**<br/>Michele Gazzetti, 23 Jul 2021
 
 **[From the Moon: Episode 4](https://open.spotify.com/episode/07VdnWMwRkq5Tny3j8ehZ9?si=oDJ70nxWRfCrjmXqBp_tOw&utm_source=copy-link&t=1641&dl_branch=1)**<br/>David Plaisant, 8 Jul 2021
 
