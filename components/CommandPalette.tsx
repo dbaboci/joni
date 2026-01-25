@@ -92,7 +92,7 @@ export function CommandPalette({ items }: { items: Item[] }) {
         aria-expanded={open}
       >
         <span className="cmdBtnLabel">Search</span>
-        <span className="cmdBtnHint">{isMac() ? '⌘K' : 'Ctrl K'}</span>
+        <span className="cmdBtnHint">{isMac() ? '⌘K' : 'Ctrl+K'}</span>
       </button>
 
       {open ? (

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ShortcutHint } from "@/components/ShortcutHint";
 import { loadPage, listPosts } from "@/lib/content";
 import { renderMarkdown } from "@/lib/markdown";
 
@@ -25,7 +26,7 @@ export default async function Home() {
           <span aria-hidden> · </span>
           <Link href="/about">About</Link>
           <span aria-hidden> · </span>
-          <span className="kbdHint">Try ⌘K</span>
+          <ShortcutHint />
         </p>
       </section>
 

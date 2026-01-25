@@ -2,6 +2,7 @@ import Link from "next/link";
 import { SiteNav } from "./SiteNav";
 import { CommandPalette } from "./CommandPalette";
 import { ReadingModeToggle } from "./ReadingModeToggle";
+import { ThemeToggle } from "./ThemeToggle";
 
 export type PaletteItem = {
   title: string;
@@ -27,6 +28,7 @@ export function SiteHeader({ paletteItems }: { paletteItems: PaletteItem[] }) {
         <div className="headerRight">
           <div className="headerTools" aria-label="Tools">
             <CommandPalette items={paletteItems} />
+            <ThemeToggle />
             <ReadingModeToggle />
           </div>
           <SiteNav />

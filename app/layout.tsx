@@ -48,11 +48,7 @@ export default async function RootLayout({
         <SiteHeader paletteItems={paletteItems} />
         <main className="container">{children}</main>
         <footer className="siteFooter">
-          <div className="container footerInner">
-            <small className="muted">
-              Built on Next.js · deployed on Vercel · evolving by design.
-            </small>
-          </div>
+          <div className="container footerInner" />
         </footer>
       </body>
     </html>

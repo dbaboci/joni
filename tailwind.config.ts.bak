@@ -1,0 +1,24 @@
+import type { Config } from 'tailwindcss';
+
+export default {
+  content: ['./app/**/*.{ts,tsx}', './components/**/*.{ts,tsx}', './lib/**/*.{ts,tsx}'],
+  darkMode: ['class', '[data-theme="dark"]'],
+  theme: {
+    extend: {
+      colors: {
+        background: 'var(--bg)',
+        foreground: 'var(--fg)',
+        muted: 'var(--muted)',
+        accent: 'var(--accent)',
+        border: 'var(--ruleSoft)',
+        ring: 'var(--rule)',
+      },
+      borderRadius: {
+        lg: '12px',
+        md: '10px',
+        sm: '8px',
+      },
+    },
+  },
+  plugins: [require('tailwindcss-animate')],
+} satisfies Config;
