@@ -1,10 +1,13 @@
 ---
-title: "lever points | thinkthinkthink #11"
+title: 'lever points | thinkthinkthink #11'
 subtitle: on small actions leading to outsized consequences
-date: 2020-11-30T21:33:22.024Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_3d7560c7-9450-4f8a-85c4-595026d8135c_396x217.gif
+date: '2020-12-01T10:00:46.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_3d7560c7-9450-4f8a-85c4-595026d8135c_396x217.gif
 excerpt: on small actions leading to outsized consequences
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/lever-points'
+canonical: 'https://thinkthinkthink.substack.com/p/lever-points'
 ---
 <!--StartFragment-->
 

@@ -1,7 +1,7 @@
 ---
-title: To build better cities, urban planners need to grow out of their masterplans
+title: 'To build better cities, urban planners need to grow out of their masterplans'
 subtitle: The best blueprint for liveable cities can be found in DNA
-date: 2020-11-06T17:25:33.580Z
+date: '2020-11-06T00:00:00.000Z'
 thumb_img_path: /images/screenshot-2020-11-06-184023.jpg
 layout: post
 ---

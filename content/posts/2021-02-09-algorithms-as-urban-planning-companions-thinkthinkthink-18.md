@@ -1,12 +1,16 @@
 ---
-title: "algorithms as urban planning companions | thinkthinkthink #18"
-subtitle: How to start employing the fascinating innovations in Machine Learning
-  to plan better cities.
-date: 2021-01-19T21:46:29.112Z
+title: 'algorithms as urban planning companions | thinkthinkthink #18'
+subtitle: >-
+  How to start employing the fascinating innovations in Machine Learning to plan
+  better cities.
+date: '2021-01-19T12:19:13.000Z'
 thumb_img_path: /images/terrain_0.gif
-excerpt: How to start employing the fascinating innovations in Machine Learning
-  to plan better cities.
+excerpt: >-
+  How to start employing the fascinating innovations in Machine Learning to plan
+  better cities.
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/algorithms-as-urban-planning-companions'
+canonical: 'https://thinkthinkthink.substack.com/p/algorithms-as-urban-planning-companions'
 ---
 <!--StartFragment-->
 

@@ -1,10 +1,12 @@
 ---
-title: "feedback loops | thinkthinkthink #10"
+title: 'feedback loops | thinkthinkthink #10'
 subtitle: positive & negative feedback loops + circuit breakers & response thresholds
-date: 2020-11-24T19:40:59.699Z
+date: '2020-11-24T12:51:53.000Z'
 thumb_img_path: /images/agora_architecture_2020_04.jpg
 excerpt: positive & negative feedback loops + circuit breakers & response thresholds
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/feedback-loops-thinkthinkthink-10'
+canonical: 'https://thinkthinkthink.substack.com/p/feedback-loops-thinkthinkthink-10'
 ---
 <!--StartFragment-->
 

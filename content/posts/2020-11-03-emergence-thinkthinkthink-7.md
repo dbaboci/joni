@@ -1,12 +1,14 @@
 ---
-title: "emergence | thinkthinkthink #7"
+title: 'emergence | thinkthinkthink #7'
 subtitle: on the most characteristic element of complex systems
-date: 2020-11-03T20:06:50.281Z
+date: '2020-11-03T17:55:59.000Z'
 thumb_img_path: /images/ezgif.com-gif-maker-3-.gif
-excerpt: "Cities exhibit emergence: this means that the behavior of the city as
-  a whole is more complex than the sum of all individual actions and
-  transactions."
+excerpt: >-
+  Cities exhibit emergence: this means that the behavior of the city as a whole
+  is more complex than the sum of all individual actions and transactions.
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/emergence'
+canonical: 'https://thinkthinkthink.substack.com/p/emergence'
 ---
 <!--StartFragment-->
 

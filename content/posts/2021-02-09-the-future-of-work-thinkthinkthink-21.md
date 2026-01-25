@@ -1,10 +1,12 @@
 ---
-title: "the future of work | thinkthinkthink #21"
-subtitle: on-demand services, labor inequality and remote work
-date: 2021-02-09T22:09:33.442Z
+title: 'the future of work | thinkthinkthink #21'
+subtitle: 'on-demand services, labor inequality and remote work'
+date: '2021-02-09T11:52:08.000Z'
 thumb_img_path: /images/screenshot-2021-02-09-231225.jpg
-excerpt: on-demand services, labor inequality and remote work
+excerpt: 'on-demand services, labor inequality and remote work'
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/the-future-of-work-thinkthinkthink'
+canonical: 'https://thinkthinkthink.substack.com/p/the-future-of-work-thinkthinkthink'
 ---
 <!--StartFragment-->
 

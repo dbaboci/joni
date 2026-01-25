@@ -1,10 +1,13 @@
 ---
-title: "self-similarity | thinkthinkthink #9"
-subtitle: modularity, iteration & recursion generate complexity
-date: 2020-11-17T13:24:15.786Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_1bc7a4df-3bb9-4a04-be16-4da34ae02fe9_787x355.png
-excerpt: modularity, iteration & recursion generate complexity
+title: 'self-similarity | thinkthinkthink #9'
+subtitle: 'modularity, iteration & recursion generate complexity'
+date: '2020-11-17T11:30:49.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_1bc7a4df-3bb9-4a04-be16-4da34ae02fe9_787x355.png
+excerpt: 'modularity, iteration & recursion generate complexity'
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/selfsimilarity'
+canonical: 'https://thinkthinkthink.substack.com/p/selfsimilarity'
 ---
 <!--StartFragment-->
 

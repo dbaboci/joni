@@ -1,10 +1,12 @@
 ---
-title: "financial instruments in development & planning | thinkthinkthink #15"
+title: 'financial instruments in development & planning | thinkthinkthink #15'
 subtitle: the first of two issues on sustainably financing the future of cities
-date: 2020-12-29T11:41:46.097Z
+date: '2020-12-29T11:03:56.000Z'
 thumb_img_path: /images/graph.jpg
 excerpt: the first of two issues on sustainably financing the future of cities
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/financial-instruments-in-development'
+canonical: 'https://thinkthinkthink.substack.com/p/financial-instruments-in-development'
 ---
 <!--StartFragment-->
 

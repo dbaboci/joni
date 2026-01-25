@@ -1,10 +1,13 @@
 ---
-title: "the exponential growth paradigm | thinkthinkthink #17"
+title: 'the exponential growth paradigm | thinkthinkthink #17'
 subtitle: a foray into the complex future of economic growth
-date: 2021-01-11T22:45:17.032Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_096bfe3e-870d-458c-8509-4ab298a39985_947x707.png
+date: '2021-01-12T11:01:00.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_096bfe3e-870d-458c-8509-4ab298a39985_947x707.png
 excerpt: a foray into the complex future of economic growth
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/exponential-growth-paradigm'
+canonical: 'https://thinkthinkthink.substack.com/p/exponential-growth-paradigm'
 ---
 <!--StartFragment-->
 

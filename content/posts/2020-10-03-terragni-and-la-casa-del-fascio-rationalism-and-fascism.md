@@ -1,12 +1,13 @@
 ---
-title: "Terragni and La Casa del Fascio: Rationalism and Fascism"
-subtitle: ""
-date: 2010-04-20T22:00:00.000Z
+title: 'Terragni and La Casa del Fascio: Rationalism and Fascism'
+subtitle: ''
+date: '2020-10-03T00:00:00.000Z'
 thumb_img_path: /images/casa_del_fascio_dal_2017.jpg
-excerpt: "Giuseppe Terragni is a world renowned Italian architect who practiced
-  mostly in the city of Como from the 1920s to the 1940s. The combination of the
-  period and the place where Terragni worked is unique for two principal
-  reasons: modernism and Fascism."
+excerpt: >-
+  Giuseppe Terragni is a world renowned Italian architect who practiced mostly
+  in the city of Como from the 1920s to the 1940s. The combination of the period
+  and the place where Terragni worked is unique for two principal reasons:
+  modernism and Fascism.
 layout: post
 ---
 *Submitted as part of University of Toronto's ARC1032 final essay coursework on April 21st 2010.*

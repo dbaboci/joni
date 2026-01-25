@@ -1,10 +1,14 @@
 ---
-title: "the stock market of housing | thinkthinkthink #20"
+title: 'the stock market of housing | thinkthinkthink #20'
 subtitle: $GME & the financialization of housing
-date: 2021-02-02T21:56:47.735Z
+date: '2021-02-02T14:09:00.000Z'
 thumb_img_path: /images/ezgif.com-gif-maker-4-.gif
 excerpt: $GME & the financialization of housing
 layout: post
+source: >-
+  https://thinkthinkthink.substack.com/p/the-stock-market-of-housing-thinkthinkthink
+canonical: >-
+  https://thinkthinkthink.substack.com/p/the-stock-market-of-housing-thinkthinkthink
 ---
 *This strange and meandering issue on the power & tragedy of crowds is 850 words long and it takes ~3 minutes to read. I hope you enjoy it.*
 

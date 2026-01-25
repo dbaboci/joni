@@ -1,10 +1,13 @@
 ---
-title: "urban accretion | thinkthinkthink #19"
+title: 'urban accretion | thinkthinkthink #19'
 subtitle: grit in architecture and cities
-date: 2021-01-26T21:53:05.715Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_5e7edb53-0528-4439-acec-53ab2f734ff8_1948x1298.jpeg
+date: '2021-01-26T12:37:05.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_5e7edb53-0528-4439-acec-53ab2f734ff8_1948x1298.jpeg
 excerpt: grit in architecture and cities
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/urban-accretion-thinkthinkthink-19'
+canonical: 'https://thinkthinkthink.substack.com/p/urban-accretion-thinkthinkthink-19'
 ---
 *This issue on urban accretion is 850 words long & it takes ~3 minutes to read; enjoy it!*
 

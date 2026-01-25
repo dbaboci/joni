@@ -1,10 +1,14 @@
 ---
-title: "informal pop culture aesthetics | thinkthinkthink #14"
+title: 'informal pop culture aesthetics | thinkthinkthink #14'
 subtitle: a brief foray on the informal aesthetics of Rose Island
-date: 2020-12-22T11:32:31.981Z
+date: '2020-12-22T17:18:27.000Z'
 thumb_img_path: /images/cars.jpg
 excerpt: a brief foray on the informal aesthetics of Rose Island
 layout: post
+source: >-
+  https://thinkthinkthink.substack.com/p/informal-pop-culture-aesthetics-thinkthinkthink
+canonical: >-
+  https://thinkthinkthink.substack.com/p/informal-pop-culture-aesthetics-thinkthinkthink
 ---
 <!--StartFragment-->
 

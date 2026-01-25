@@ -1,7 +1,7 @@
 ---
 title: 'Kuaj, Hitite, dhe Histori'
 subtitle: ''
-date: 2015-08-21T22:00:00.000Z
+date: '2020-01-10T00:00:00.000Z'
 thumb_img_path: /images/1_1KQYYLm4OGiPnQjA3Of5cQ.jpeg
 excerpt: >-
   Më shumë se 4000 vjet përpara përhapjes së Europianëve në të gjithë

@@ -1,10 +1,13 @@
 ---
-title: "The 15-minute city | thinkthinkthink #2"
-subtitle: Grounding the latest trend in a long history of cold efficiency versus
+title: 'The 15-minute city | thinkthinkthink #2'
+subtitle: >-
+  Grounding the latest trend in a long history of cold efficiency versus
   polycentrism.
-date: 2020-10-01T15:36:19.082Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_f0dffb9a-cd9a-4482-a416-6f60ddc24fb8_929x399.png
-excerpt: Grounding the latest trend in a long history of cold efficiency versus
+date: '2020-10-01T00:00:00.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_f0dffb9a-cd9a-4482-a416-6f60ddc24fb8_929x399.png
+excerpt: >-
+  Grounding the latest trend in a long history of cold efficiency versus
   polycentrism.
 layout: post
 ---

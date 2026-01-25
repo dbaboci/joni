@@ -1,10 +1,12 @@
 ---
-title: "the future of governance | thinkthinkthink #22"
+title: 'the future of governance | thinkthinkthink #22'
 subtitle: on-chain community organization and the remote-first agora
-date: 2021-07-13T07:50:31.401Z
-thumb_img_path: https://pbs.twimg.com/media/E5RhncYUcAAEHKI?format=jpg&name=large
+date: '2021-07-09T21:43:22.000Z'
+thumb_img_path: 'https://pbs.twimg.com/media/E5RhncYUcAAEHKI?format=jpg&name=large'
 excerpt: on-chain community organization and the remote-first agora
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/thefutureofgovernance'
+canonical: 'https://thinkthinkthink.substack.com/p/thefutureofgovernance'
 ---
 *This issue on govtech is 800 words long and it takes ~3 minutes to read. I hope you enjoy it.*
 

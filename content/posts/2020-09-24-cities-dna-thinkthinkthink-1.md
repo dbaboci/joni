@@ -1,13 +1,15 @@
 ---
-title: "Cities & DNA | thinkthinkthink #1"
-subtitle: "DNA is not a blueprint - how can we leverage that fact to build
-  better cities + an amazing book on the history of Rome and three articles on
-  evolution, Wuhan, and bitcoin. "
-date: 2020-09-23T08:42:16.554Z
+title: 'Cities & DNA | thinkthinkthink #1'
+subtitle: >-
+  DNA is not a blueprint - how can we leverage that fact to build better cities
+  + an amazing book on the history of Rome and three articles on evolution,
+  Wuhan, and bitcoin. 
+date: '2020-09-24T00:00:00.000Z'
 thumb_img_path: /images/screenshot-2021-07-01-133059.png
-excerpt: "DNA is not a blueprint - how can we leverage that fact to build better
-  cities + an amazing book on the history of Rome and three articles on
-  evolution, Wuhan, and bitcoin. "
+excerpt: >-
+  DNA is not a blueprint - how can we leverage that fact to build better cities
+  + an amazing book on the history of Rome and three articles on evolution,
+  Wuhan, and bitcoin. 
 layout: post
 ---
 > *“A city is more than a place in space, it is a drama in time.” - Patrick Geddes*

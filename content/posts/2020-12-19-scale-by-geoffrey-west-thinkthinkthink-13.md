@@ -1,10 +1,12 @@
 ---
-title: "Scale by Geoffrey West | thinkthinkthink #13"
+title: 'Scale by Geoffrey West | thinkthinkthink #13'
 subtitle: A deep dive summary into on of the most interesting books I read this year.
-date: 2020-12-19T16:57:03.568Z
+date: '2020-12-15T11:38:14.000Z'
 thumb_img_path: /images/screenshot-2020-12-19-175930.jpg
 excerpt: A deep dive summary into on of the most interesting books I read this year.
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/scale-by-geoffrey-west'
+canonical: 'https://thinkthinkthink.substack.com/p/scale-by-geoffrey-west'
 ---
 *Greetings urban enthusiasts. I want to try something different this week. This is a deep dive review into one of the best books I read this year: Scale by Geoffrey West. It is a longer email than usual but could be a useful reference if you never get around to reading the book (which you absolutely should if you enjoy cities, science and complex systems). It is not a comprehensive account, but a summary of the most interesting points I highlighted while reading it. If you enjoy this kind of content let me know by replying to this email. You can always [check out books I have loved or hated in my goodreads list.](https://www.goodreads.com/review/list/4485647-joni-baboci?shelf=read) Because of the length of this issue some images might be truncated. [For a better reading experience consider the web version this time around.](https://thinkthinkthink.substack.com/p/scale-by-geoffrey-west)*
 

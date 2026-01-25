@@ -1,12 +1,17 @@
 ---
-title: "urban inequality | thinkthinkthink #12"
-subtitle: cities as ladder of opportunity, labor's decreasing share of national
-  income & inter-regional versus intra-regional inequality
-date: 2020-12-09T13:00:49.839Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_061a494d-4d60-49e2-8b30-901ef412d0e0_1582x888.jpeg
-excerpt: cities as ladder of opportunity, labor's decreasing share of national
-  income & inter-regional versus intra-regional inequality
+title: 'urban inequality | thinkthinkthink #12'
+subtitle: >-
+  cities as ladder of opportunity, labor's decreasing share of national income &
+  inter-regional versus intra-regional inequality
+date: '2020-12-08T12:59:58.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_061a494d-4d60-49e2-8b30-901ef412d0e0_1582x888.jpeg
+excerpt: >-
+  cities as ladder of opportunity, labor's decreasing share of national income &
+  inter-regional versus intra-regional inequality
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/urban-inequality'
+canonical: 'https://thinkthinkthink.substack.com/p/urban-inequality'
 ---
 <!--StartFragment-->
 

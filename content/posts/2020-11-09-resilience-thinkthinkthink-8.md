@@ -1,10 +1,13 @@
 ---
-title: "resilience | thinkthinkthink #8"
+title: 'resilience | thinkthinkthink #8'
 subtitle: redundancy & adaptability in complex systems.
-date: 2020-11-09T23:30:52.728Z
-thumb_img_path: /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_3271f2aa-f8a2-4dea-a282-7a2381abed15_912x613.png
+date: '2020-11-10T11:30:44.000Z'
+thumb_img_path: >-
+  /images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_3271f2aa-f8a2-4dea-a282-7a2381abed15_912x613.png
 excerpt: redundancy & adaptability in complex systems.
 layout: post
+source: 'https://thinkthinkthink.substack.com/p/resilience'
+canonical: 'https://thinkthinkthink.substack.com/p/resilience'
 ---
 <!--StartFragment-->
 
