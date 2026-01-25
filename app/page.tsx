@@ -24,6 +24,8 @@ export default async function Home() {
           <Link href="/media">Media</Link>
           <span aria-hidden> · </span>
           <Link href="/about">About</Link>
+          <span aria-hidden> · </span>
+          <span className="kbdHint">Try ⌘K</span>
         </p>
       </section>
 
@@ -45,7 +47,11 @@ export default async function Home() {
           <ol className="postList">
             {posts.map((p) => (
               <li key={p.slug} className="postItem">
-                <Link className="postLink" href={`/blog/${p.slug}`}>
+                <Link
+                  className="postLink"
+                  href={`/blog/${p.slug}`}
+                  data-excerpt={p.excerpt || ""}
+                >
                   {p.title}
                 </Link>
                 {p.date ? <span className="postMeta">{p.date}</span> : null}

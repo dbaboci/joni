@@ -23,8 +23,9 @@ const POSTS_DIR = path.join(ROOT, "content", "posts");
 async function readFileIfExists(filePath: string): Promise<string | null> {
   try {
     return await fs.readFile(filePath, "utf8");
-  } catch (e: any) {
-    if (e?.code === "ENOENT") return null;
+  } catch (e: unknown) {
+    const err = e as NodeJS.ErrnoException;
+    if (err?.code === "ENOENT") return null;
     throw e;
   }
 }
@@ -45,8 +46,9 @@ export async function listPosts(): Promise<Omit<BlogPost, "content">[]> {
   let entries: string[] = [];
   try {
     entries = await fs.readdir(POSTS_DIR);
-  } catch (e: any) {
-    if (e?.code === "ENOENT") return [];
+  } catch (e: unknown) {
+    const err = e as NodeJS.ErrnoException;
+    if (err?.code === "ENOENT") return [];
     throw e;
   }
 
@@ -83,8 +85,9 @@ export async function loadPost(slug: string): Promise<BlogPost | null> {
   let entries: string[] = [];
   try {
     entries = await fs.readdir(POSTS_DIR);
-  } catch (e: any) {
-    if (e?.code === "ENOENT") return null;
+  } catch (e: unknown) {
+    const err = e as NodeJS.ErrnoException;
+    if (err?.code === "ENOENT") return null;
     throw e;
   }
 

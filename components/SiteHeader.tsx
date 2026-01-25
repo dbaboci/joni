@@ -1,7 +1,16 @@
 import Link from "next/link";
 import { SiteNav } from "./SiteNav";
+import { CommandPalette } from "./CommandPalette";
+import { ReadingModeToggle } from "./ReadingModeToggle";
 
-export function SiteHeader() {
+export type PaletteItem = {
+  title: string;
+  href: string;
+  kind: "page" | "post";
+  meta?: string;
+};
+
+export function SiteHeader({ paletteItems }: { paletteItems: PaletteItem[] }) {
   return (
     <header className="siteHeader">
       <div className="container headerInner">
@@ -14,7 +23,14 @@ export function SiteHeader() {
           </Link>
           <div className="tagline">urbanism · software · tools for thought · AI</div>
         </div>
-        <SiteNav />
+
+        <div className="headerRight">
+          <div className="headerTools" aria-label="Tools">
+            <CommandPalette items={paletteItems} />
+            <ReadingModeToggle />
+          </div>
+          <SiteNav />
+        </div>
       </div>
     </header>
   );
