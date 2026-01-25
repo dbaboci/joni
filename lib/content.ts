@@ -9,7 +9,10 @@ export type ContentPage = {
 };
 
 export type BlogPost = {
+  /** Canonical, URL-safe slug */
   slug: string;
+  /** Original slug as derived from filename (may contain unicode punctuation) */
+  sourceSlug: string;
   title: string;
   date?: string;
   excerpt?: string;
@@ -19,6 +22,18 @@ export type BlogPost = {
 const ROOT = process.cwd();
 const PAGES_DIR = path.join(ROOT, "content", "pages");
 const POSTS_DIR = path.join(ROOT, "content", "posts");
+
+function canonicalizeSlug(input: string) {
+  // Normalize unicode (turn smart quotes/dashes into their base forms) then keep URLs ASCII-safe.
+  return input
+    .normalize("NFKD")
+    .replace(/[\u2018\u2019\u201B\u2032]/g, "'") // single quotes
+    .replace(/[\u201C\u201D\u201F\u2033]/g, '"') // double quotes
+    .replace(/[\u2013\u2014\u2212]/g, "-") // en dash, em dash, minus
+    .replace(/[^a-zA-Z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .toLowerCase();
+}
 
 async function readFileIfExists(filePath: string): Promise<string | null> {
   try {
@@ -58,13 +73,15 @@ export async function listPosts(): Promise<Omit<BlogPost, "content">[]> {
       .map(async (filename) => {
         const raw = await fs.readFile(path.join(POSTS_DIR, filename), "utf8");
         const { data, content } = matter(raw);
-        const slug = filename
+        const sourceSlug = filename
           .replace(/\.(md|markdown)$/i, "")
           .replace(/^\d{4}-\d{2}-\d{2}-/, "");
 
+        const slug = canonicalizeSlug(sourceSlug) || sourceSlug;
+
         const title =
           (typeof data.title === "string" && data.title) ||
-          slug.replace(/[-_]+/g, " ");
+          sourceSlug.replace(/[-_]+/g, " ");
 
         const date = typeof data.date === "string" ? data.date : undefined;
         const excerpt =
@@ -72,7 +89,7 @@ export async function listPosts(): Promise<Omit<BlogPost, "content">[]> {
             ? data.excerpt
             : content.split("\n").find((l) => l.trim())?.slice(0, 180);
 
-        return { slug, title, date, excerpt };
+        return { slug, sourceSlug, title, date, excerpt };
       })
   );
 
@@ -91,18 +108,34 @@ export async function loadPost(slug: string): Promise<BlogPost | null> {
     throw e;
   }
 
+  const wanted = canonicalizeSlug(slug) || slug;
+
   const match = entries.find((f) => {
     const base = f.replace(/\.(md|markdown)$/i, "");
-    return base === slug || base.endsWith(`-${slug}`);
+    const sourceSlug = base.replace(/^\d{4}-\d{2}-\d{2}-/, "");
+    const canon = canonicalizeSlug(sourceSlug) || sourceSlug;
+
+    return (
+      base === slug ||
+      base.endsWith(`-${slug}`) ||
+      sourceSlug === slug ||
+      canon === wanted
+    );
   });
   if (!match) return null;
 
   const raw = await fs.readFile(path.join(POSTS_DIR, match), "utf8");
   const { data, content } = matter(raw);
 
+  const sourceSlug = match
+    .replace(/\.(md|markdown)$/i, "")
+    .replace(/^\d{4}-\d{2}-\d{2}-/, "");
+
+  const canonical = canonicalizeSlug(sourceSlug) || sourceSlug;
+
   const title =
     (typeof data.title === "string" && data.title) ||
-    slug.replace(/[-_]+/g, " ");
+    sourceSlug.replace(/[-_]+/g, " ");
 
   const date = typeof data.date === "string" ? data.date : undefined;
   const excerpt =
@@ -110,5 +143,5 @@ export async function loadPost(slug: string): Promise<BlogPost | null> {
       ? data.excerpt
       : content.split("\n").find((l) => l.trim())?.slice(0, 180);
 
-  return { slug, title, date, excerpt, content };
+  return { slug: canonical, sourceSlug, title, date, excerpt, content };
 }

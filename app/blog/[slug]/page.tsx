@@ -1,6 +1,6 @@
 import { loadPost, listPosts } from "@/lib/content";
 import { renderMarkdown } from "@/lib/markdown";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 
 export async function generateStaticParams() {
   const posts = await listPosts();
@@ -15,6 +15,11 @@ export default async function BlogPostPage({
   const { slug } = await params;
   const post = await loadPost(slug);
   if (!post) return notFound();
+
+  // If someone hits an old/unusual unicode slug (or any alias), canonicalize to the safe URL.
+  if (post.slug !== slug) {
+    return redirect(`/blog/${post.slug}`);
+  }
 
   return (
     <article className="card prose">
