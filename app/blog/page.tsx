@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { listPosts } from "@/lib/content";
+import { formatPostDate } from "@/lib/date";
 
 export const dynamic = "force-static";
 
@@ -14,7 +15,7 @@ export default async function BlogIndexPage() {
           {posts.map((p) => (
             <li key={p.slug}>
               <Link href={`/blog/${p.slug}`}>{p.title}</Link>
-              {p.date ? <span style={{ color: "var(--muted)" }}> — {p.date}</span> : null}
+              {p.date ? <span style={{ color: "var(--muted)" }}> — {formatPostDate(p.date)}</span> : null}
               {p.excerpt ? (
                 <div style={{ color: "var(--muted)", marginTop: 4 }}>{p.excerpt}</div>
               ) : null}

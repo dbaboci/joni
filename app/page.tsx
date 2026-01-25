@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ShortcutHint } from "@/components/ShortcutHint";
 import { loadPage, listPosts } from "@/lib/content";
+import { formatPostDate } from "@/lib/date";
 import { renderMarkdown } from "@/lib/markdown";
 
 export default async function Home() {
@@ -55,7 +56,7 @@ export default async function Home() {
                 >
                   {p.title}
                 </Link>
-                {p.date ? <span className="postMeta">{p.date}</span> : null}
+                {p.date ? <span className="postMeta">{formatPostDate(p.date)}</span> : null}
               </li>
             ))}
           </ol>

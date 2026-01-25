@@ -1,5 +1,6 @@
 import { loadPost, listPosts } from "@/lib/content";
 import { renderMarkdown } from "@/lib/markdown";
+import { formatPostDate } from "@/lib/date";
 import { notFound, redirect } from "next/navigation";
 
 export async function generateStaticParams() {
@@ -24,7 +25,7 @@ export default async function BlogPostPage({
   return (
     <article className="card prose">
       <h1>{post.title}</h1>
-      {post.date ? <p style={{ color: "var(--muted)" }}>{post.date}</p> : null}
+      {post.date ? <p style={{ color: "var(--muted)" }}>{formatPostDate(post.date)}</p> : null}
       <div dangerouslySetInnerHTML={{ __html: renderMarkdown(post.content) }} />
     </article>
   );
