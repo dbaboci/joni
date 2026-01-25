@@ -1,6 +1,5 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import { SiteNav } from './SiteNav';
+import Link from "next/link";
+import { SiteNav } from "./SiteNav";
 
 export function SiteHeader() {
   return (
@@ -9,17 +8,11 @@ export function SiteHeader() {
         <div className="brandRow">
           <Link className="brand" href="/" aria-label="Home">
             <span className="brandMark" aria-hidden>
-              <Image
-                src="/images/logo.png"
-                alt=""
-                width={28}
-                height={28}
-                priority
-              />
+              J
             </span>
             <span className="brandText">Joni</span>
           </Link>
-          <div className="tagline">thinking · cities · code · AI</div>
+          <div className="tagline">urbanism · software · tools for thought · AI</div>
         </div>
         <SiteNav />
       </div>

@@ -1,33 +1,39 @@
 import type { Metadata } from "next";
-import { Open_Sans, PT_Sans } from "next/font/google";
+import { Crimson_Pro, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 import { SiteHeader } from "@/components/SiteHeader";
 
-const openSans = Open_Sans({ subsets: ["latin"], variable: "--font-sans" });
-const ptSans = PT_Sans({ subsets: ["latin"], weight: ["400", "700"], variable: "--font-serif" });
+const serif = Crimson_Pro({
+  subsets: ["latin"],
+  variable: "--font-serif",
+  // Crimson needs a couple weights for emphasis without looking heavy.
+  weight: ["400", "500", "600", "700"],
+});
+
+const sans = IBM_Plex_Sans({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  weight: ["400", "500", "600"],
+});
 
 export const metadata: Metadata = {
   title: "Joni",
-  description: "Personal playground: thinker · urban planner · coder · AI-obsessed",
+  description: "Personal playground: urbanism · software · tools for thought · AI",
 };
 
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={`${openSans.variable} ${ptSans.variable}`}> 
+    <html lang="en" className={`${serif.variable} ${sans.variable}`}>
       <body>
-        <div className="bgGrid" aria-hidden />
         <SiteHeader />
-
         <main className="container">{children}</main>
-
         <footer className="siteFooter">
           <div className="container footerInner">
-            <small>
-              Deployed on Vercel. Built to evolve. <span aria-hidden>⚡</span>
+            <small className="muted">
+              Built on Next.js · deployed on Vercel · evolving by design.
             </small>
-            <small className="muted">/legacy keeps the old artifacts.</small>
           </div>
         </footer>
       </body>

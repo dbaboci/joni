@@ -11,6 +11,7 @@ const NAV: NavItem[] = [
   { href: '/now', label: 'Now' },
   { href: '/blog', label: 'Blog' },
   { href: '/media', label: 'Media' },
+  { href: '/contact', label: 'Contact' },
   { href: '/legacy', label: 'Legacy' },
 ];
 
@@ -24,18 +25,21 @@ export function SiteNav() {
 
   return (
     <nav className="nav" aria-label="Main">
-      {NAV.map((item) => {
-        const active = isActive(pathname, item.href);
-        return (
-          <Link
-            key={item.href}
-            href={item.href}
-            className={active ? 'navLink navLinkActive' : 'navLink'}
-          >
-            {item.label}
-          </Link>
-        );
-      })}
+      <ul className="navList">
+        {NAV.map((item) => {
+          const active = isActive(pathname, item.href);
+          return (
+            <li key={item.href} className="navItem">
+              <Link
+                href={item.href}
+                className={active ? 'navLink navLinkActive' : 'navLink'}
+              >
+                {item.label}
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
     </nav>
   );
 }
