@@ -12,7 +12,7 @@ export default async function Home() {
     <div className="stack">
       <section className="intro">
         <h1 className="introTitle">
-          I build tools and ideas for living in cities without losing your mind.
+          I build tools at the intersection of cities, technology and complexity.
         </h1>
         <p className="introLead">
           This is my playground: writing, experiments, and prototypes — cleanly
