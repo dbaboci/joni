@@ -6,13 +6,9 @@ import { usePathname } from 'next/navigation';
 type NavItem = { href: string; label: string };
 
 const NAV: NavItem[] = [
-  { href: '/', label: 'Home' },
   { href: '/about', label: 'About' },
-  { href: '/now', label: 'Now' },
   { href: '/blog', label: 'Blog' },
   { href: '/media', label: 'Media' },
-  { href: '/contact', label: 'Contact' },
-  { href: '/legacy', label: 'Legacy' },
 ];
 
 function isActive(pathname: string, href: string) {

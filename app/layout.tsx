@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
-import { Crimson_Pro, IBM_Plex_Sans } from "next/font/google";
+import { IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 import { SiteHeader } from "@/components/SiteHeader";
-import { listPosts } from "@/lib/content";
 
-const serif = Crimson_Pro({
+const mono = IBM_Plex_Mono({
   subsets: ["latin"],
-  variable: "--font-serif",
-  weight: ["400", "500", "600", "700"],
+  variable: "--font-mono",
+  weight: ["400", "500"],
 });
 
 const sans = IBM_Plex_Sans({
@@ -17,38 +16,26 @@ const sans = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Joni",
-  description: "Personal playground: urbanism · software · tools for thought · AI",
+  title: {
+    default: "Joni Baboci — Urbanist & Builder",
+    template: "%s — Joni Baboci",
+  },
+  description: "Joni Baboci is a planner, architect, and founder working across urban systems, spatial intelligence, and public technology.",
 };
 
-export default async function RootLayout({
+export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
-  const posts = await listPosts();
-
-  const paletteItems = [
-    { title: "Home", href: "/", kind: "page" as const },
-    { title: "About", href: "/about", kind: "page" as const },
-    { title: "Now", href: "/now", kind: "page" as const },
-    { title: "Blog", href: "/blog", kind: "page" as const },
-    { title: "Media", href: "/media", kind: "page" as const },
-    { title: "Contact", href: "/contact", kind: "page" as const },
-    { title: "Legacy", href: "/legacy", kind: "page" as const },
-    ...posts.map((p) => ({
-      title: p.title,
-      href: `/blog/${p.slug}`,
-      kind: "post" as const,
-      meta: p.date,
-    })),
-  ];
-
   return (
-    <html lang="en" className={`${serif.variable} ${sans.variable}`}>
+    <html lang="en" className={`${sans.variable} ${mono.variable}`}>
       <body>
-        <SiteHeader paletteItems={paletteItems} />
-        <main className="container">{children}</main>
+        <SiteHeader />
+        <main className="siteMain">{children}</main>
         <footer className="siteFooter">
-          <div className="container footerInner" />
+          <div className="footerInner">
+            <p>© {new Date().getFullYear()} Joni Baboci</p>
+            <p>Tirana, Albania</p>
+          </div>
         </footer>
       </body>
     </html>

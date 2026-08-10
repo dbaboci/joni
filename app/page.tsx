@@ -1,62 +1,52 @@
 import Link from "next/link";
-import { ShortcutHint } from "@/components/ShortcutHint";
-import { loadPage, listPosts } from "@/lib/content";
+import { listPosts } from "@/lib/content";
 import { formatPostDate } from "@/lib/date";
-import { renderMarkdown } from "@/lib/markdown";
 
 export default async function Home() {
-  const page = await loadPage("index");
-  const posts = (await listPosts()).slice(0, 10);
+  const posts = (await listPosts()).slice(0, 6);
 
   return (
-    <div className="stack">
-      <section className="intro">
-        <h1 className="introTitle">
-          I build tools and ideas for living in cities without losing your mind.
+    <div className="homePage">
+      <section className="homeIntro">
+        <p className="eyebrow">Joni Baboci · Tirana, Albania</p>
+        <h1>
+          Planner, architect, and builder exploring how cities work - and how
+          they might work better.
         </h1>
-        <p className="introLead">
-          This is my playground: writing, experiments, and prototypes — cleanly
-          organized, intentionally unfinished.
+        <p className="introText">
+          I work across urban planning, public institutions, and software. I’m
+          currently building <a href="https://getlayer.xyz">Layer</a> and writing
+          about cities, systems, and technology.
         </p>
-        <p className="introLinks">
-          <Link href="/now">Now</Link>
-          <span aria-hidden> · </span>
-          <Link href="/blog">Blog</Link>
-          <span aria-hidden> · </span>
-          <Link href="/media">Media</Link>
-          <span aria-hidden> · </span>
-          <Link href="/about">About</Link>
-          <span aria-hidden> · </span>
-          <ShortcutHint />
-        </p>
+        <div className="introLinks">
+          <Link href="/about">About me <span aria-hidden>↗</span></Link>
+          <a href="https://getlayer.xyz" rel="noreferrer" target="_blank">
+            Layer <span aria-hidden>↗</span>
+          </a>
+        </div>
       </section>
 
-      {page ? (
-        <section className="prose">
-          <div dangerouslySetInnerHTML={{ __html: renderMarkdown(page.content) }} />
-        </section>
-      ) : null}
-
-      <section className="section">
-        <div className="sectionHeader">
-          <h2>Recent posts</h2>
-          <Link className="sectionLink" href="/blog">
-            all posts
-          </Link>
+      <section className="writingSection">
+        <div className="sectionHeading">
+          <div>
+            <p className="sectionLabel">Writing</p>
+            <h2>Recent notes</h2>
+          </div>
+          <Link className="quietLink" href="/blog">All writing →</Link>
         </div>
 
         {posts.length ? (
-          <ol className="postList">
-            {posts.map((p) => (
-              <li key={p.slug} className="postItem">
-                <Link
-                  className="postLink"
-                  href={`/blog/${p.slug}`}
-                  data-excerpt={p.excerpt || ""}
-                >
-                  {p.title}
+          <ol className="writingList">
+            {posts.map((post) => (
+              <li key={post.slug}>
+                <Link href={`/blog/${post.slug}`}>
+                  <div className="writingTitle">
+                    <h3>{post.title}</h3>
+                    {post.excerpt ? <p>{post.excerpt}</p> : null}
+                  </div>
+                  {post.date ? <time>{formatPostDate(post.date)}</time> : null}
+                  <span className="writingArrow" aria-hidden>↗</span>
                 </Link>
-                {p.date ? <span className="postMeta">{formatPostDate(p.date)}</span> : null}
               </li>
             ))}
           </ol>
@@ -65,11 +55,32 @@ export default async function Home() {
         )}
       </section>
 
-      <section className="section">
-        <h2>Legacy</h2>
-        <p className="muted">
-          The old static pages are preserved at <Link href="/legacy">/legacy</Link>.
-        </p>
+      <section className="homeDetails">
+        <article>
+          <p className="sectionLabel">Profile</p>
+          <h2>A decade working on cities from inside government, practice, and technology.</h2>
+          <Link className="quietLink" href="/about">Read more →</Link>
+        </article>
+        <article>
+          <p className="sectionLabel">Media</p>
+          <h2>Conversations, talks, podcasts, and other appearances.</h2>
+          <Link className="quietLink" href="/media">Browse media →</Link>
+        </article>
+      </section>
+
+      <section className="subscribeSection">
+        <div>
+          <p className="sectionLabel">ThinkThinkThink</p>
+          <h2>Occasional notes on cities, complexity, and science.</h2>
+        </div>
+        <a
+          className="subscribeLink"
+          href="https://thinkthinkthink.substack.com/subscribe"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Subscribe <span aria-hidden>↗</span>
+        </a>
       </section>
     </div>
   );
