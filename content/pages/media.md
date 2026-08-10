@@ -6,34 +6,114 @@ menus:
     weight: 3
 layout: page
 ---
-*A list of articles and interviews about my work*
+Selected conversations, interviews, talks and writing about cities, complexity and the work behind them.
 
-**[Architect Joni Baboci talks about his vision on the circular economy](https://triennale.org/en/magazine/architect-joni-baboci-talks-about-his-vision-on-the)**<br/>Triennale Milano, 23 Jul 2021
+## Podcasts and conversations
 
-**[The urban circular economy](https://www.eni.com/en-IT/circular-economy/urban-circular-economy.html)**<br/>Michele Gazzetti, 23 Jul 2021
+### [The Journey Matters More Than the Destination](https://podcasts.apple.com/de/podcast/32-the-journey-matters-more-than-the/id1643885273?i=1000655627996)
 
-**[From the Moon: Episode 4](https://open.spotify.com/episode/07VdnWMwRkq5Tny3j8ehZ9?si=oDJ70nxWRfCrjmXqBp_tOw&utm_source=copy-link&t=1641&dl_branch=1)**<br/>David Plaisant, 8 Jul 2021
+The UrbanTech VC, episode 32 · 15 May 2024
 
-**[Transforming Tirana: Joni Baboci talks public space & proximity to nature](https://www.buildingcentre.co.uk/news/articles/transforming-tirana)**<br/>[Vanessa Norwood](https://twitter.com/nessnorwood) - [Building Centre](https://www.buildingcentre.co.uk/), 05 Jan 2021 
+### [When Will We Live in a Network City?](https://creators.spotify.com/city-dao-podcast/episodes/21-When-Will-We-Live-in-a-Network-City--What-Could-That-Look-Like---Joni-Baboci-e1j5cpq)
 
-**[Planning the child-friendly City](https://bycs.org/planning-the-child-friendly-city/)**<br/>[Lucas Snaije](https://twitter.com/lucas_snaije) - BYCS, 12 Nov 2020
+CityDAO Podcast · 27 May 2022
 
-**[Tirana - Sustainable Cities Podcast](https://open.spotify.com/episode/3ZdtvV5dcJWaQLwhWCmDeZ?si=V__VTChPScuSU8G9xOo-Ng)**<br/>Jarrett Fisher - SDGs and Cities, 10 Sep 2020
+### [From the Moon: The World at Night](https://triennale.org/en/magazine/the-world-at-night)
 
-**[Bizarre Communist Folly to Be Reborn as Albanian Education Center](https://www.bloomberg.com/news/articles/2020-01-17/bizarre-communist-pyramid-reborn-as-albanian-education-center)**<br/>[Richard Vines](https://twitter.com/Richardvines) - Bloomberg, 17 Jan 2020
+With David Plaisant, Ricky Burdett, Angela Rui and Hou Hanru · Triennale Milano · 8 July 2021
 
-**[Reconstructing a City in the Interests of its Children: Tirana, Albania, 2015 – 2019](https://successfulsocieties.princeton.edu/publications/reconstructing-city-interests-its-children-tirana-albania-2015-%E2%80%93-2019)**<br/>Gabriel Curis - Princeton: Innovations for Successful Societies, July 2019
+### [Tirana, Albania](https://podcasts.apple.com/us/podcast/tirana-albania-joni-baboci/id1531360355)
 
-**[L'iconique pyramide de Tirana ressuscitée par le numérique](https://www.linformaticien.com/actualites/direct-afp/id/51918/l-iconique-pyramide-de-tirana-ressuscitee-par-le-numerique.aspx)**<br/>[Sally Mairs](https://twitter.com/ssmairs) & Briseida Mema - L'informaticien, 01 May 2019
+Sustainable Cities with Jarrett Fisher · 7 September 2020
 
-**[Tirana's 'pyramid' puts checkered past behind it for new tech future ](https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html)**<br/>[Sally Mairs](https://twitter.com/ssmairs) & Briseida Mema - Yahoo via AFP, 01 May 2019
+## Interviews and profiles
 
-**[Pour la premiere fois, l'infrastructure precede le developpement et non l'inverse](https://twitter.com/dbaboci/status/1118592392205086720)**<br/>[Zehra Sikias](https://twitter.com/ZSikias) - Le Moniteur Export, 15 Apr 2019
+### [Blockchains, AI and the City of Tomorrow?](https://bn-kollegen.de/wp-content/uploads/2023/12/pM_Chaos_061123_digital.pdf)
 
-**[Rebuilding a City from the Eye of a Child](https://www.citylab.com/equity/2018/12/kid-friendly-policy-tirana-urban-planning/578164/)**<br/>[Feargus O'Sullivan](https://twitter.com/FeargusOSull) - Citylab, 17 Dec 2018
+Interview with Katharina Dienes on Layer, decentralized governance and future cities · pM, 2023
 
-**['Build it and they will come': Tirana's plan for a 'kaleidoscope metropolis'](https://www.theguardian.com/cities/2018/oct/29/tirana-2030-albania-capital-plan-erion-veliaj)**<br/>[Stephen Burgen](https://twitter.com/stephenburgen) - The Guardian, 29 Oct 2018
+### [Transforming Tirana](https://www.vanessanorwood.com/post/transforming-tirana-an-interview-with-joni-baboci)
 
-**[Tirana Green City](http://www.abitare.it/en/habitat-en/urban-design-en/2016/12/18/the-project-by-stefano-boeri-for-tirana/)**<br/>Michele Calzavara - Abitare, 18 Dec 2016
+Interview with Vanessa Norwood on public space, nature and the transformation of Tirana · 31 October 2022
 
-**[Atelier Albania – or how to redesign a country](https://www.iconeye.com/opinion/comment/item/12312-icon-150-new-mission-new-attitude)**<br/>David Michon - ICON Magazine, 18 Nov 2015
+### [Architect Joni Baboci talks about his vision on the circular economy](https://triennale.org/en/magazine/architect-joni-baboci-talks-about-his-vision-on-the)
+
+Profile and video · Triennale Milano · 23 July 2021
+
+### [Planning the Child-Friendly City](https://bycs.org/planning-the-child-friendly-city/)
+
+Interview with Lucas Snaije · BYCS · 12 November 2020
+
+### [Itinerant Office meets Joni Baboçi](https://vimeo.com/256306449)
+
+Video interview on planning and development in Tirana · New Generations Festival, 2018
+
+## Talks and panels
+
+### [Building Urban Resilience and Responding to Crises](https://b40network.org/wp-content/uploads/2024/01/B40-TIRANA-SUMMIT_AGENDA-1.pdf)
+
+Expert panel · B40 Tirana Summit · 31 January 2024
+
+### [Facilitating Freedom For All: Building Cities for the Next Generation](https://divaircity.eu/facilitating-freedom-for-all-building-cities-for-the-next-generation/)
+
+Recorded panel on child-friendly, inclusive and sustainable cities · DivAirCity H2020 · 21 September 2023
+
+### [Planning for Complexity](https://kosovoarchitecture.org/joni-baboci-2/)
+
+Lecture on data, decentralized governance and the changing planning paradigm · Kosovo Architecture Festival · 2022
+
+### [Aligning Stakeholder Priorities in Urban Resilience](https://resilientcitiesnetwork.org/speaker-series-1-aligning-stakeholder-priorities-in-urban-resilience/)
+
+Speaker series · Resilient Cities Network · 2021
+
+## Publications and essays
+
+### [Schools as Urban Infrastructures](https://randazzo.net/agathon/article/view/518)
+
+With Frida Pashako · *AGATHÓN, International Journal of Architecture, Art and Design* · 30 June 2026
+
+### [Unpacking Cities as Complex Adaptive Systems](https://doi.org/10.1007/978-3-030-87745-3_89)
+
+*The Palgrave Encyclopedia of Urban and Regional Futures* · 2022
+
+### [Governing Futures](https://triennale.org/en/magazine/governing-futures)
+
+Essay on institutions, incentives and circularity · Triennale Milano · 14 January 2022
+
+### [The Deeper Order of Cities](https://thesideview.co/journal/the-deeper-order-of-cities/)
+
+Essay on small-scale planning and decentralized local governance · The Side View · 12 November 2021
+
+### [Circular Futures](https://triennale.org/en/magazine/circular-futures-by-architect-joni-baboci)
+
+Research on circular urban economies, production, mobility and city-making · Triennale Milano and Eni · 2021
+
+## Selected press coverage
+
+### [Bizarre Communist Folly to Be Reborn as Albanian Education Center](https://www.bloomberg.com/news/articles/2020-01-17/bizarre-communist-pyramid-reborn-as-albanian-education-center)
+
+Richard Vines · Bloomberg · 17 January 2020
+
+### [Reconstructing a City in the Interests of its Children](https://successfulsocieties.princeton.edu/publications/reconstructing-city-interests-its-children-tirana-albania-2015-%E2%80%93-2019)
+
+Gabriel Kuris · Princeton Innovations for Successful Societies · July 2019
+
+### [Tirana's Pyramid Puts Checkered Past Behind It for a New Tech Future](https://news.yahoo.com/tiranas-pyramid-puts-checkered-past-behind-tech-future-022314433.html)
+
+Sally Mairs and Briseida Mema · AFP via Yahoo News · 1 May 2019
+
+### [Rebuilding a City from the Eye of a Child](https://www.bloomberg.com/news/articles/2018-12-17/how-tirana-put-kids-at-the-heart-of-urban-design)
+
+Feargus O'Sullivan · Bloomberg CityLab · 17 December 2018
+
+### [“Build it and they will come”: Tirana's plan for a kaleidoscope metropolis](https://www.theguardian.com/cities/2018/oct/29/tirana-2030-albania-capital-plan-erion-veliaj)
+
+Stephen Burgen · The Guardian · 29 October 2018
+
+### [Tirana Green City](https://www.abitare.it/en/habitat-en/urban-design-en/2016/12/18/the-project-by-stefano-boeri-for-tirana/)
+
+Michele Calzavara · Abitare · 18 December 2016
+
+### [Atelier Albania — or how to redesign a country](https://www.iconeye.com/opinion/comment/item/12312-icon-150-new-mission-new-attitude)
+
+David Michon · ICON Magazine · 18 November 2015

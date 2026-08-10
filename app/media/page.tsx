@@ -6,7 +6,7 @@ export default async function MediaPage() {
   const page = await loadPage("media");
   if (!page) return notFound();
   return (
-    <article className="card prose">
+    <article className="card prose mediaPage">
       <h1>{page.title ?? "Media"}</h1>
       <div dangerouslySetInnerHTML={{ __html: renderMarkdown(page.content) }} />
     </article>

@@ -78,6 +78,16 @@ input:focus-visible {
   color: var(--muted);
 }
 
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
 /* Header */
 .siteHeader {
   border-bottom: 1px solid var(--borderSoft);
@@ -466,6 +476,124 @@ input:focus-visible {
   text-decoration: none;
 }
 
+/* Profile and media pages */
+.aboutPage > div > h2,
+.mediaPage > div > h2 {
+  margin-top: 4rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1.2rem;
+  color: var(--accent);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.aboutPage > div > h3,
+.mediaPage > div > h3 {
+  margin-top: 2.2rem;
+}
+
+.aboutPage > div > h3 + p,
+.mediaPage > div > h3 + p {
+  margin-top: -0.45rem;
+  color: var(--muted);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+}
+
+.mediaPage > div > h3 {
+  font-size: 1.18rem;
+  line-height: 1.4;
+}
+
+.mediaPage > div > h3 a {
+  color: var(--fg);
+  text-decoration-color: var(--border);
+}
+
+.mediaPage > div > h3 a:hover {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+
+.newsletterCard {
+  margin-top: 5rem;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  padding: 2.5rem;
+}
+
+.newsletterIntro {
+  max-width: 38rem;
+}
+
+.newsletterIntro h2 {
+  margin: 0.7rem 0 0;
+  font-size: 1.65rem;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+
+.newsletterIntro > p:last-child {
+  max-width: 35rem;
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.newsletterForm {
+  display: flex;
+  max-width: 38rem;
+  margin-top: 1.6rem;
+}
+
+.newsletterForm input {
+  min-width: 0;
+  flex: 1;
+  border: 1px solid var(--border);
+  border-right: 0;
+  border-radius: 0;
+  background: var(--bg);
+  color: var(--fg);
+  padding: 0.8rem 0.9rem;
+}
+
+.newsletterForm input::placeholder {
+  color: var(--faint);
+}
+
+.newsletterForm input:focus {
+  position: relative;
+  z-index: 1;
+}
+
+.newsletterForm button {
+  border: 1px solid var(--fg);
+  border-radius: 0;
+  background: var(--fg);
+  color: var(--bg);
+  cursor: pointer;
+  padding: 0.8rem 1rem;
+  transition: background-color 150ms ease, color 150ms ease;
+}
+
+.newsletterForm button:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--bg);
+}
+
+.newsletterFinePrint {
+  margin: 0.75rem 0 0;
+  color: var(--faint);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.02em;
+}
+
 .card > ul {
   list-style: none;
   margin: 2.5rem 0 0;
@@ -585,6 +713,33 @@ input:focus-visible {
   .card {
     width: calc(100% - 2rem);
     margin: 4rem auto 6rem;
+  }
+
+  .newsletterIntro {
+    max-width: none;
+  }
+
+  .newsletterIntro h2 {
+    font-size: 1.4rem;
+  }
+
+  .newsletterCard {
+    padding: 1.5rem;
+  }
+
+  .newsletterForm {
+    max-width: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .newsletterForm {
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+
+  .newsletterForm input {
+    border-right: 1px solid var(--border);
   }
 }
 
